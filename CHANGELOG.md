@@ -7,6 +7,7 @@ Version 1.006 - Released 02/07/2024
 Changes
 - Changed the Segmented Digit 7 at U+1FBF7 to have segment "F".
 - Fixed U+10421 and U+10449 because they were flipped horizontally.
+- Set Italic angle for Italic styles.
 
 -------------------------------------------------------------------------------
 
