@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.007 - Released 02/15/2024
+
+Additions
+- Added characters for Mahjong Tiles, Domino Tiles, and Playing Cards.
+
+-------------------------------------------------------------------------------
+
 Version 1.006 - Released 02/07/2024
 
 Changes
