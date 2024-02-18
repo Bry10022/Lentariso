@@ -6,7 +6,7 @@ This is the repository for the Lentariso font.
 These characters represent the Seven Segment Displays that were used in devices of the 70's to 00's to display numbers and some letters to form words needed by those devices. Even with the advent of modern technology and encodings, they are still used in some modern devices due to the low cost. These characters are encoded starting at U+E000, with punctuation at U+E080.
 
 ## Arbitrary Fraction Characters
-These characters are used to compose any fraction wherever necessary. Use these characters with the Superscripts and Subscripts at U+2070 to make more fractions. The superscript 1, 2, and 3 are at U+00B9, U+00B2, and U+00B3 respectively. These characters are encoded starting at E+E100, where the last two digits of the codepoints are the numerator and denominator respectively. 
+These characters are used to compose any fraction wherever necessary. Use these characters with the Superscripts and Subscripts at U+2070 to make more fractions. The superscript 1, 2, and 3 are at U+00B9, U+00B2, and U+00B3 respectively. These characters are encoded starting at U+E100, where the last two digits of the codepoints are the numerator and denominator respectively. 
 
 # Do's and Don'ts of using this font.
 - You may use this font for personal (non-commercial), and commercial use.
