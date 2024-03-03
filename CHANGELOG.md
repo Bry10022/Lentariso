@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.009 - Released 03/03/2024
+
+Changes
+- Fix certain characters.
+
+-------------------------------------------------------------------------------
+
 Version 1.008 - Released 03/03/2024
 
 Additions
