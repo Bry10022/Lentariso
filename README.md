@@ -1,6 +1,9 @@
 # Lentariso
 This is the repository for the Lentariso font.
 
+# What is the Lentariso font?
+Lentariso is an angular sans-serif font that supports a majority of Latin, Greek, and Cyrillic languages, along with other scripts such as Armenian, Lisu, Gothic, as well as many symbols that have appeared in character sets for retro computers of the 1980's and 1990's.
+
 # Private Use Area
 ## Seven Segment Display Characters
 These characters represent the Seven Segment Displays that were used in devices of the 70's to 00's to display numbers and some letters to form words needed by those devices. Even with the advent of modern technology and encodings, they are still used in some modern devices due to the low cost. These characters are encoded starting at U+E000, with punctuation at U+E080.
