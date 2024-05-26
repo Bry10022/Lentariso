@@ -5,7 +5,7 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 Version 1.010 - Released 05/26/2024
 
 Changes
-- Swapped the glyphs of U+1CE09 and U+1CE0A.
+- Corrected the glyphs of U+1CE09 and U+1CE0A as they were swapped around.
 
 -------------------------------------------------------------------------------
 
