@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Regular
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.011
+Version: 1.012
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1717280876
+ModificationTime: 1718197006
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -92662,40 +92662,39 @@ LayerCount: 2
 Fore
 SplineSet
 100 800 m 1
- 100 1000 l 1
- 300 1200 l 1
+ 100 1200 l 1
  700 1200 l 1
- 700 1300 l 1
- 600 1400 l 1
- 300 1400 l 1
- 300 1600 l 1
- 700 1600 l 1
- 800 1500 l 1
- 900 1600 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+ 100 1600 l 1
  1300 1600 l 1
  1500 1400 l 1
- 1500 1000 l 1
+ 1500 1200 l 1
+ 1300 1000 l 1
  900 1000 l 1
- 900 800 l 1
- 1500 800 l 1
- 1500 600 l 1
+ 900 900 l 1
+ 1000 800 l 1
+ 1300 800 l 1
+ 1300 600 l 1
+ 900 600 l 1
+ 800 700 l 1
+ 700 600 l 1
  300 600 l 1
  100 800 l 1
 300 900 m 1
  400 800 l 1
- 700 800 l 1
+ 600 800 l 1
+ 700 900 l 1
  700 1000 l 1
- 400 1000 l 1
+ 300 1000 l 1
  300 900 l 1
 900 1200 m 1
- 1300 1200 l 1
+ 1200 1200 l 1
  1300 1300 l 1
  1200 1400 l 1
- 1000 1400 l 1
- 900 1300 l 1
+ 900 1400 l 1
  900 1200 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni1D4A
@@ -94621,43 +94620,42 @@ EndChar
 
 StartChar: u10780
 Encoding: 3155 67456 3155
-Width: 2000
+Width: 1600
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
 100 600 m 1
- 100 1400 l 1
- 500 1800 l 1
- 700 1800 l 1
- 1000 1500 l 1
- 1300 1800 l 1
- 1500 1800 l 1
- 1900 1400 l 1
- 1900 600 l 1
- 1700 600 l 1
- 1700 900 l 1
- 1100 900 l 1
- 1100 600 l 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 600 1600 l 1
+ 800 1400 l 1
+ 1000 1600 l 1
+ 1200 1600 l 1
+ 1500 1300 l 1
+ 1500 600 l 1
+ 1300 600 l 1
+ 1300 800 l 1
+ 900 800 l 1
  900 600 l 1
- 900 900 l 1
- 300 900 l 1
+ 700 600 l 1
+ 700 800 l 1
+ 300 800 l 1
  300 600 l 1
  100 600 l 1
-300 1100 m 1
- 900 1100 l 1
- 900 1300 l 1
- 600 1600 l 1
- 300 1300 l 1
- 300 1100 l 1
-1100 1100 m 1
- 1700 1100 l 1
- 1700 1300 l 1
- 1400 1600 l 1
- 1100 1300 l 1
- 1100 1100 l 1
+300 1000 m 1
+ 700 1000 l 1
+ 700 1200 l 1
+ 500 1400 l 1
+ 300 1200 l 1
+ 300 1000 l 1
+900 1000 m 1
+ 1300 1000 l 1
+ 1300 1200 l 1
+ 1100 1400 l 1
+ 900 1200 l 1
+ 900 1000 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: u10781
