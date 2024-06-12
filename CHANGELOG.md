@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.012 - Released 06/11/2024
+
+Changes
+- Fixed U+1D46 as it looked the same as U+10783, when it should have been rotated 180 degrees; and U+10780 as it was a full-sized capital superscript, when it should have been small capital superscript. I can't believe that those went unnoticed until now.
+
+-------------------------------------------------------------------------------
+
 Version 1.011 - Released 06/01/2024
 
 Changes
