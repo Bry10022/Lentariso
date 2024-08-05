@@ -2,6 +2,12 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.013 - Released 08/05/2024
+
+Changes
+- Fixed U+AB5E as it had a double tile like what some fonts still have, but after consulting the Unicode charts, it should have had a single tilde, and therefore corrected.
+
+-------------------------------------------------------------------------------
 Version 1.012 - Released 06/11/2024
 
 Changes
