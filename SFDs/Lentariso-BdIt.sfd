@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.012
+Version: 1.013
 ItalicAngle: -5
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1718197132
+ModificationTime: 1722893601
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -96595,41 +96595,26 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-179 900 m 1
- 187 1000 l 1
- 405 1200 l 1
- 605 1200 l 1
- 618 1350 l 1
- 595 1375 l 1
- 514 1300 l 1
- 214 1300 l 1
- 222 1400 l 1
- 440 1600 l 1
- 640 1600 l 1
- 657 1800 l 1
- 957 1800 l 1
- 927 1450 l 1
- 950 1425 l 1
- 1031 1500 l 1
- 1331 1500 l 1
- 1322 1400 l 1
- 1105 1200 l 1
- 905 1200 l 1
- 892 1050 l 1
- 915 1025 l 1
- 996 1100 l 1
- 1296 1100 l 1
- 1287 1000 l 1
- 1070 800 l 1
- 870 800 l 1
+887 1000 m 1
  852 600 l 1
  552 600 l 1
- 583 950 l 1
- 560 975 l 1
- 479 900 l 1
- 179 900 l 1
+ 601 1150 l 1
+ 578 1175 l 1
+ 496 1100 l 1
+ 196 1100 l 1
+ 205 1200 l 1
+ 422 1400 l 1
+ 622 1400 l 1
+ 657 1800 l 1
+ 957 1800 l 1
+ 909 1250 l 1
+ 932 1225 l 1
+ 1014 1300 l 1
+ 1314 1300 l 1
+ 1305 1200 l 1
+ 1087 1000 l 1
+ 887 1000 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniAB5F
