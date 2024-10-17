@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.015 - Released 10/17/2024
+
+Additions
+- Added the Old Italic script.
+
+-------------------------------------------------------------------------------
+
 Version 1.014 - Released 10/08/2024
 
 Additions
