@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.014
+Version: 1.015
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1728431313
+ModificationTime: 1729201338
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -59,6 +59,7 @@ Lookup: 1 0 0 "Single Substitution lookup 11" { "Single Substitution lookup 11-1
 Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12-1"  } []
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 13" { "'ccmp' Glyph Composition/Decomposition lookup 13-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 1 "'rlig' Required Ligatures lookup 14" { "'rlig' Required Ligatures lookup 14-1"  } ['rlig' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'rtlm' Right to Left mirrored forms lookup 15" { "'rtlm' Right to Left mirrored forms lookup 15-1"  } ['rtlm' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'ital' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning for Latin lookup 0-1" [360,0,6] "'kern' Horizontal Kerning for Cyrillic lookup 0-2" [360,0,6] "'kern' Horizontal Kerning for Greek lookup 0-3" [360,0,6] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -160,7 +161,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 5008 16 12
+WinInfo: 5088 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -178,7 +179,7 @@ Grid
   Named: "Ascent"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 524288 -740994 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 5191 5191
+BeginChars: 5269 5269
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -92430,6 +92431,7 @@ SplineSet
  1000 1400 l 1
  1000 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1D4A
@@ -94389,6 +94391,7 @@ SplineSet
  1000 1200 l 1
  1000 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10781
@@ -96619,6 +96622,7 @@ SplineSet
  1000 1000 l 1
  800 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniAB5F
@@ -155624,6 +155628,7 @@ SplineSet
  1600 1400 l 1
  0 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1CD65
@@ -155710,6 +155715,7 @@ SplineSet
  800 -400 l 1
  0 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1CD69
@@ -156205,6 +156211,7 @@ SplineSet
  1600 800 l 1
  0 800 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1CD80
@@ -157622,6 +157629,7 @@ SplineSet
  1600 -400 l 1
  0 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1CDC0
@@ -157639,6 +157647,7 @@ SplineSet
  1600 -400 l 1
  0 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1CDC1
@@ -157661,6 +157670,7 @@ SplineSet
  1600 1400 l 1
  800 1400 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: u1CDC2
@@ -157680,6 +157690,7 @@ SplineSet
  1600 -400 l 1
  0 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1CDC3
@@ -157702,6 +157713,7 @@ SplineSet
  1600 800 l 1
  800 800 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: u1CDC4
@@ -162776,7 +162788,7 @@ EndChar
 StartChar: u10530
 Encoding: 5138 66864 5138
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162809,12 +162821,13 @@ SplineSet
  400 1200 l 1
  400 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10531
 Encoding: 5139 66865 5139
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162841,12 +162854,13 @@ SplineSet
  400 800 l 1
  400 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10532
 Encoding: 5140 66866 5140
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162869,12 +162883,13 @@ SplineSet
  400 400 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10533
 Encoding: 5141 66867 5141
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162901,13 +162916,14 @@ SplineSet
  400 1200 l 1
  400 800 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10534
 Encoding: 5142 66868 5142
 Width: 1700
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162928,12 +162944,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10535
 Encoding: 5143 66869 5143
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162954,12 +162971,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10536
 Encoding: 5144 66870 5144
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -162973,12 +162991,13 @@ SplineSet
  1400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10537
 Encoding: 5145 66871 5145
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163005,13 +163024,14 @@ SplineSet
  400 1200 l 1
  400 800 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10538
 Encoding: 5146 66872 5146
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163032,12 +163052,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10539
 Encoding: 5147 66873 5147
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163056,13 +163077,14 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1053A
 Encoding: 5148 66874 5148
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163074,12 +163096,13 @@ SplineSet
  1100 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1053B
 Encoding: 5149 66875 5149
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163098,12 +163121,13 @@ SplineSet
  400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1053C
 Encoding: 5150 66876 5150
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163121,12 +163145,13 @@ SplineSet
  400 600 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1053D
 Encoding: 5151 66877 5151
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163149,13 +163174,14 @@ SplineSet
  400 800 l 1
  400 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1053E
 Encoding: 5152 66878 5152
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163172,13 +163198,14 @@ SplineSet
  400 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1053F
 Encoding: 5153 66879 5153
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163192,12 +163219,13 @@ SplineSet
  1400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10540
 Encoding: 5154 66880 5154
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163220,13 +163248,14 @@ SplineSet
  400 1000 l 1
  400 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10541
 Encoding: 5155 66881 5155
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163244,12 +163273,13 @@ SplineSet
  400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10542
 Encoding: 5156 66882 5156
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163283,13 +163313,14 @@ SplineSet
  400 1200 l 1
  400 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10543
 Encoding: 5157 66883 5157
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163309,12 +163340,13 @@ SplineSet
  1400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10544
 Encoding: 5158 66884 5158
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163333,12 +163365,13 @@ SplineSet
  1400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10545
 Encoding: 5159 66885 5159
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163355,12 +163388,13 @@ SplineSet
  400 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10546
 Encoding: 5160 66886 5160
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163378,12 +163412,13 @@ SplineSet
  400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10547
 Encoding: 5161 66887 5161
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163397,12 +163432,13 @@ SplineSet
  1100 800 l 1
  100 800 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10548
 Encoding: 5162 66888 5162
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163422,13 +163458,14 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10549
 Encoding: 5163 66889 5163
 Width: 1700
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163450,12 +163487,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1054A
 Encoding: 5164 66890 5164
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163491,12 +163529,13 @@ SplineSet
  550 1400 l 1
  400 1250 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1054B
 Encoding: 5165 66891 5165
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163521,12 +163560,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1054C
 Encoding: 5166 66892 5166
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163551,12 +163591,13 @@ SplineSet
  400 1200 l 1
  400 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1054D
 Encoding: 5167 66893 5167
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163584,12 +163625,13 @@ SplineSet
  400 1200 l 1
  400 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1054E
 Encoding: 5168 66894 5168
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163609,13 +163651,14 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1054F
 Encoding: 5169 66895 5169
 Width: 1700
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163637,12 +163680,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10550
 Encoding: 5170 66896 5170
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163671,12 +163715,13 @@ SplineSet
  400 600 l 1
  400 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10551
 Encoding: 5171 66897 5171
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163699,12 +163744,13 @@ SplineSet
  400 1200 l 1
  400 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10552
 Encoding: 5172 66898 5172
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163731,12 +163777,13 @@ SplineSet
  400 1200 l 1
  400 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10553
 Encoding: 5173 66899 5173
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163754,12 +163801,13 @@ SplineSet
  1400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10554
 Encoding: 5174 66900 5174
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163780,12 +163828,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10555
 Encoding: 5175 66901 5175
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163806,12 +163855,13 @@ SplineSet
  400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10556
 Encoding: 5176 66902 5176
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163836,12 +163886,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10557
 Encoding: 5177 66903 5177
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163866,12 +163917,13 @@ SplineSet
  400 1200 l 1
  400 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10558
 Encoding: 5178 66904 5178
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163893,12 +163945,13 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10559
 Encoding: 5179 66905 5179
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163923,13 +163976,14 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1055A
 Encoding: 5180 66906 5180
 Width: 1700
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163949,12 +164003,13 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1055B
 Encoding: 5181 66907 5181
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -163975,12 +164030,13 @@ SplineSet
  400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1055C
 Encoding: 5182 66908 5182
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164009,12 +164065,13 @@ SplineSet
  600 800 l 1
  600 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1055D
 Encoding: 5183 66909 5183
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164052,12 +164109,13 @@ SplineSet
  750 500 l 1
  750 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1055E
 Encoding: 5184 66910 5184
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164081,13 +164139,14 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1055F
 Encoding: 5185 66911 5185
 Width: 1700
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164109,13 +164168,14 @@ SplineSet
  400 800 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10560
 Encoding: 5186 66912 5186
 Width: 1700
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164135,13 +164195,14 @@ SplineSet
  400 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10561
 Encoding: 5187 66913 5187
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164157,12 +164218,13 @@ SplineSet
  600 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10562
 Encoding: 5188 66914 5188
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164184,13 +164246,14 @@ SplineSet
  400 400 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10563
 Encoding: 5189 66915 5189
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164208,12 +164271,13 @@ SplineSet
  600 400 l 1
  100 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1056F
 Encoding: 5190 66927 5190
 Width: 700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -164233,6 +164297,2173 @@ SplineSet
  400 500 l 1
  100 500 l 1
 EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10300
+Encoding: 5191 66304 5191
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 400 l 1
+ 400 400 l 1
+ 400 0 l 1
+ 100 0 l 1
+400 600 m 1
+ 1100 600 l 1
+ 1100 1000 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 400 600 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10300.rtlm
+EndChar
+
+StartChar: u10301
+Encoding: 5192 66305 5192
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 1000 l 1
+ 1200 800 l 1
+ 1400 600 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 500 l 1
+ 900 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+400 900 m 1
+ 900 900 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10301.rtlm
+EndChar
+
+StartChar: u10302
+Encoding: 5193 66306 5193
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 500 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 800 1400 l 1
+ 400 1000 l 1
+ 400 600 l 1
+ 800 200 l 1
+ 1400 200 l 1
+ 1400 0 l 1
+ 600 0 l 1
+ 100 500 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10302.rtlm
+EndChar
+
+StartChar: u10303
+Encoding: 5194 66307 5194
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1000 1600 l 1
+ 1400 1200 l 1
+ 1400 400 l 1
+ 1000 0 l 1
+ 700 0 l 1
+ 700 100 l 1
+ 1100 500 l 1
+ 1100 1100 l 1
+ 800 1400 l 1
+ 400 1400 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10303.rtlm
+EndChar
+
+StartChar: u10304
+Encoding: 5195 66308 5195
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+ 1200 900 l 1
+ 1200 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+ 1400 200 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10304.rtlm
+EndChar
+
+StartChar: u10305
+Encoding: 5196 66309 5196
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+ 1200 900 l 1
+ 1200 700 l 1
+ 400 700 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10305.rtlm
+EndChar
+
+StartChar: u10306
+Encoding: 5197 66310 5197
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 600 200 l 1
+ 600 1400 l 1
+ 100 1400 l 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 900 1400 l 1
+ 900 200 l 1
+ 1400 200 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10306.rtlm
+EndChar
+
+StartChar: u10307
+Encoding: 5198 66311 5198
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+400 900 m 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10307.rtlm
+EndChar
+
+StartChar: u10308
+Encoding: 5199 66312 5199
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 650 m 1
+ 550 800 l 1
+ 400 950 l 1
+ 400 650 l 1
+475 325 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1025 325 l 1
+ 750 600 l 1
+ 475 325 l 1
+475 1275 m 1
+ 750 1000 l 1
+ 1025 1275 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 475 1275 l 1
+950 800 m 1
+ 1100 650 l 1
+ 1100 950 l 1
+ 950 800 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10308.rtlm
+EndChar
+
+StartChar: u10309
+Encoding: 5200 66313 5200
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10309.rtlm
+EndChar
+
+StartChar: u1030A
+Encoding: 5201 66314 5201
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1000 l 1
+ 900 1500 l 1
+ 1200 1500 l 1
+ 1200 1400 l 1
+ 600 800 l 1
+ 1200 200 l 1
+ 1200 100 l 1
+ 900 100 l 1
+ 400 600 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030A.rtlm
+EndChar
+
+StartChar: u1030B
+Encoding: 5202 66315 5202
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 200 l 1
+ 1400 200 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030B.rtlm
+EndChar
+
+StartChar: u1030C
+Encoding: 5203 66316 5203
+Width: 2500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1750 1250 l 1
+ 2100 1600 l 1
+ 2400 1600 l 1
+ 2400 1500 l 1
+ 1900 1000 l 1
+ 1600 1000 l 1
+ 1250 1350 l 1
+ 900 1000 l 1
+ 600 1000 l 1
+ 400 1200 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030C.rtlm
+EndChar
+
+StartChar: u1030D
+Encoding: 5204 66317 5204
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1500 l 1
+ 900 1000 l 1
+ 600 1000 l 1
+ 400 1200 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030D.rtlm
+EndChar
+
+StartChar: u1030E
+Encoding: 5205 66318 5205
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 600 200 l 1
+ 600 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+400 900 m 1
+ 600 900 l 1
+ 600 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+900 200 m 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 900 700 l 1
+ 900 200 l 1
+900 900 m 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 900 1400 l 1
+ 900 900 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030E.rtlm
+EndChar
+
+StartChar: u1030F
+Encoding: 5206 66319 5206
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 400 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030F.rtlm
+EndChar
+
+StartChar: u10310
+Encoding: 5207 66320 5207
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 1000 l 1
+ 1100 1000 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10310.rtlm
+EndChar
+
+StartChar: u10311
+Encoding: 5208 66321 5208
+Width: 1900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 950 1050 l 1
+ 1500 1600 l 1
+ 1800 1600 l 1
+ 1800 0 l 1
+ 1500 0 l 1
+ 1500 1200 l 1
+ 1100 800 l 1
+ 1100 300 l 1
+ 800 300 l 1
+ 800 800 l 1
+ 400 1200 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10311.rtlm
+EndChar
+
+StartChar: u10312
+Encoding: 5209 66322 5209
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 900 0 l 1
+ 900 -400 l 1
+ 600 -400 l 1
+ 600 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 400 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10312.rtlm
+EndChar
+
+StartChar: u10313
+Encoding: 5210 66323 5210
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 1000 l 1
+ 1100 700 l 1
+ 400 700 l 1
+ 400 0 l 1
+ 100 0 l 1
+400 900 m 1
+ 900 900 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10313.rtlm
+EndChar
+
+StartChar: u10314
+Encoding: 5211 66324 5211
+Width: 900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 100 l 1
+ 525 525 l 1
+ 100 950 l 1
+ 100 1200 l 1
+ 500 1600 l 1
+ 800 1600 l 1
+ 800 1500 l 1
+ 375 1075 l 1
+ 800 650 l 1
+ 800 400 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10314.rtlm
+EndChar
+
+StartChar: u10315
+Encoding: 5212 66325 5212
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 900 1400 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10315.rtlm
+EndChar
+
+StartChar: u10316
+Encoding: 5213 66326 5213
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1100 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1200 l 1
+ 750 850 l 1
+ 1100 1200 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1100 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 600 l 1
+ 100 1100 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10316.rtlm
+EndChar
+
+StartChar: u10317
+Encoding: 5214 66327 5214
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 550 800 l 1
+ 100 1250 l 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1350 l 1
+ 750 1000 l 1
+ 1100 1350 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1250 l 1
+ 950 800 l 1
+ 1400 350 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 250 l 1
+ 750 600 l 1
+ 400 250 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10317.rtlm
+EndChar
+
+StartChar: u10318
+Encoding: 5215 66328 5215
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+900 200 m 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 900 200 l 1
+400 400 m 1
+ 600 200 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 400 l 1
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 900 0 l 1
+ 900 -400 l 1
+ 600 -400 l 1
+ 600 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10318.rtlm
+EndChar
+
+StartChar: u10319
+Encoding: 5216 66329 5216
+Width: 2100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1500 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 900 1100 l 1
+ 900 1600 l 1
+ 1200 1600 l 1
+ 1200 1100 l 1
+ 1700 1600 l 1
+ 2000 1600 l 1
+ 2000 1500 l 1
+ 1200 700 l 1
+ 1200 0 l 1
+ 900 0 l 1
+ 900 700 l 1
+ 100 1500 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10319.rtlm
+EndChar
+
+StartChar: u1031A
+Encoding: 5217 66330 5217
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 600 l 1
+ 300 800 l 1
+ 100 1000 l 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 1000 l 1
+ 1200 800 l 1
+ 1400 600 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 500 l 1
+ 900 700 l 1
+ 600 700 l 1
+ 400 500 l 1
+ 400 400 l 1
+400 1100 m 1
+ 600 900 l 1
+ 900 900 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 1100 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031A.rtlm
+EndChar
+
+StartChar: u1031B
+Encoding: 5218 66331 5218
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 1000 l 1
+ 1100 700 l 1
+ 400 700 l 1
+ 400 0 l 1
+ 100 0 l 1
+400 900 m 1
+ 900 900 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031B.rtlm
+EndChar
+
+StartChar: u1031C
+Encoding: 5219 66332 5219
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 900 l 1
+ 1100 900 l 1
+ 1400 600 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 500 l 1
+ 900 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031C.rtlm
+EndChar
+
+StartChar: u1031D
+Encoding: 5220 66333 5220
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 1100 900 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 700 l 1
+ 100 700 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031D.rtlm
+EndChar
+
+StartChar: u1031E
+Encoding: 5221 66334 5221
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 500 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 600 l 1
+ 750 250 l 1
+ 1100 600 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 500 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 100 500 l 1
+600 1000 m 1
+ 600 1200 l 1
+ 900 1200 l 1
+ 900 1000 l 1
+ 600 1000 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031E.rtlm
+EndChar
+
+StartChar: u1031F
+Encoding: 5222 66335 5222
+Width: 2100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 100 m 1
+ 100 200 l 1
+ 700 800 l 1
+ 100 1400 l 1
+ 100 1500 l 1
+ 400 1500 l 1
+ 900 1000 l 1
+ 900 1600 l 1
+ 1200 1600 l 1
+ 1200 1000 l 1
+ 1700 1500 l 1
+ 2000 1500 l 1
+ 2000 1400 l 1
+ 1400 800 l 1
+ 2000 200 l 1
+ 2000 100 l 1
+ 1700 100 l 1
+ 1200 600 l 1
+ 1200 0 l 1
+ 900 0 l 1
+ 900 600 l 1
+ 400 100 l 1
+ 100 100 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031F.rtlm
+EndChar
+
+StartChar: u10320
+Encoding: 5223 66336 5223
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10320.rtlm
+EndChar
+
+StartChar: u10321
+Encoding: 5224 66337 5224
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 1000 l 1
+ 750 1350 l 1
+ 400 1000 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10321.rtlm
+EndChar
+
+StartChar: u10322
+Encoding: 5225 66338 5225
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 550 800 l 1
+ 100 1250 l 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1350 l 1
+ 750 1000 l 1
+ 1100 1350 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1250 l 1
+ 950 800 l 1
+ 1400 350 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 250 l 1
+ 750 600 l 1
+ 400 250 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10317.rtlm
+EndChar
+
+StartChar: u10323
+Encoding: 5226 66339 5226
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 1000 l 1
+ 1100 1000 l 1
+ 900 1200 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 1200 l 1
+ 400 1000 l 1
+ 100 1000 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10323.rtlm
+EndChar
+
+StartChar: u1032D
+Encoding: 5227 66349 5227
+Width: 1100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 800 1600 l 1
+ 1000 1600 l 1
+ 1000 1400 l 1
+ 400 800 l 1
+ 1000 200 l 1
+ 1000 0 l 1
+ 800 0 l 1
+ 100 700 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1032D.rtlm
+EndChar
+
+StartChar: u1032E
+Encoding: 5228 66350 5228
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 1000 l 1
+ 1100 1000 l 1
+ 900 1200 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 1200 l 1
+ 400 1000 l 1
+ 100 1000 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10323.rtlm
+EndChar
+
+StartChar: u1032F
+Encoding: 5229 66351 5229
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1175 1600 l 1
+ 1400 1375 l 1
+ 1400 1175 l 1
+ 1262 1038 l 1
+ 1400 900 l 1
+ 1400 700 l 1
+ 1262 562 l 1
+ 1400 425 l 1
+ 1400 225 l 1
+ 1175 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 975 200 l 1
+ 1100 325 l 1
+ 975 450 l 1
+ 400 450 l 1
+ 400 200 l 1
+400 650 m 1
+ 950 650 l 1
+ 1100 800 l 1
+ 950 950 l 1
+ 400 950 l 1
+ 400 650 l 1
+400 1150 m 1
+ 975 1150 l 1
+ 1100 1275 l 1
+ 975 1400 l 1
+ 400 1400 l 1
+ 400 1150 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1032F.rtlm
+EndChar
+
+StartChar: u10300.rtlm
+Encoding: 5230 -1 5230
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 400 l 1
+ 400 400 l 1
+ 400 0 l 1
+ 100 0 l 1
+400 600 m 1
+ 1100 600 l 1
+ 1100 1400 l 1
+ 800 1400 l 1
+ 400 1000 l 1
+ 400 600 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10301.rtlm
+Encoding: 5231 -1 5231
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 600 l 1
+ 300 800 l 1
+ 100 1000 l 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 600 700 l 1
+ 400 500 l 1
+ 400 400 l 1
+400 1100 m 1
+ 600 900 l 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 1100 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10302.rtlm
+Encoding: 5232 -1 5232
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 200 l 1
+ 1100 600 l 1
+ 1100 1000 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 500 l 1
+ 900 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10303.rtlm
+Encoding: 5233 -1 5233
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 400 m 1
+ 100 1200 l 1
+ 500 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 1400 l 1
+ 700 1400 l 1
+ 400 1100 l 1
+ 400 500 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 500 0 l 1
+ 100 400 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10304.rtlm
+Encoding: 5234 -1 5234
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 300 700 l 1
+ 300 900 l 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 100 1400 l 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10305.rtlm
+Encoding: 5235 -1 5235
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 700 l 1
+ 300 700 l 1
+ 300 900 l 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10306.rtlm
+Encoding: 5236 -1 5236
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 600 200 l 1
+ 600 1400 l 1
+ 100 1400 l 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 900 1400 l 1
+ 900 200 l 1
+ 1400 200 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10307.rtlm
+Encoding: 5237 -1 5237
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+400 900 m 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10308.rtlm
+Encoding: 5238 -1 5238
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 650 m 1
+ 550 800 l 1
+ 400 950 l 1
+ 400 650 l 1
+475 325 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1025 325 l 1
+ 750 600 l 1
+ 475 325 l 1
+475 1275 m 1
+ 750 1000 l 1
+ 1025 1275 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 475 1275 l 1
+950 800 m 1
+ 1100 650 l 1
+ 1100 950 l 1
+ 950 800 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10308.rtlm
+EndChar
+
+StartChar: u10309.rtlm
+Encoding: 5239 -1 5239
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10309.rtlm
+EndChar
+
+StartChar: u1030A.rtlm
+Encoding: 5240 -1 5240
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 100 m 1
+ 100 200 l 1
+ 700 800 l 1
+ 100 1400 l 1
+ 100 1500 l 1
+ 400 1500 l 1
+ 900 1000 l 1
+ 900 1600 l 1
+ 1200 1600 l 1
+ 1200 0 l 1
+ 900 0 l 1
+ 900 600 l 1
+ 400 100 l 1
+ 100 100 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1030B.rtlm
+Encoding: 5241 -1 5241
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 1100 200 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1030C.rtlm
+Encoding: 5242 -1 5242
+Width: 2500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1500 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1750 1250 l 1
+ 2100 1600 l 1
+ 2400 1600 l 1
+ 2400 0 l 1
+ 2100 0 l 1
+ 2100 1200 l 1
+ 1900 1000 l 1
+ 1600 1000 l 1
+ 1250 1350 l 1
+ 900 1000 l 1
+ 600 1000 l 1
+ 100 1500 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1030D.rtlm
+Encoding: 5243 -1 5243
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1500 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 1200 l 1
+ 900 1000 l 1
+ 600 1000 l 1
+ 100 1500 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1030E.rtlm
+Encoding: 5244 -1 5244
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+400 200 m 1
+ 600 200 l 1
+ 600 700 l 1
+ 400 700 l 1
+ 400 200 l 1
+400 900 m 1
+ 600 900 l 1
+ 600 1400 l 1
+ 400 1400 l 1
+ 400 900 l 1
+900 200 m 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 900 700 l 1
+ 900 200 l 1
+900 900 m 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 900 1400 l 1
+ 900 900 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030E.rtlm
+EndChar
+
+StartChar: u1030F.rtlm
+Encoding: 5245 -1 5245
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 400 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1030F.rtlm
+EndChar
+
+StartChar: u10310.rtlm
+Encoding: 5246 -1 5246
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 1400 l 1
+ 800 1400 l 1
+ 400 1000 l 1
+ 100 1000 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10311.rtlm
+Encoding: 5247 -1 5247
+Width: 1900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 950 1050 l 1
+ 1500 1600 l 1
+ 1800 1600 l 1
+ 1800 0 l 1
+ 1500 0 l 1
+ 1500 1200 l 1
+ 1100 800 l 1
+ 1100 300 l 1
+ 800 300 l 1
+ 800 800 l 1
+ 400 1200 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10311.rtlm
+EndChar
+
+StartChar: u10312.rtlm
+Encoding: 5248 -1 5248
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 900 0 l 1
+ 900 -400 l 1
+ 600 -400 l 1
+ 600 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 400 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10312.rtlm
+EndChar
+
+StartChar: u10313.rtlm
+Encoding: 5249 -1 5249
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 700 l 1
+ 400 700 l 1
+ 100 1000 l 1
+400 1100 m 1
+ 600 900 l 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 1100 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10314.rtlm
+Encoding: 5250 -1 5250
+Width: 900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 400 m 1
+ 100 650 l 1
+ 525 1075 l 1
+ 100 1500 l 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 800 1200 l 1
+ 800 950 l 1
+ 375 525 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 500 0 l 1
+ 100 400 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u10315.rtlm
+Encoding: 5251 -1 5251
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 1400 1600 l 1
+ 1400 1400 l 1
+ 900 1400 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10315.rtlm
+EndChar
+
+StartChar: u10316.rtlm
+Encoding: 5252 -1 5252
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1100 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1200 l 1
+ 750 850 l 1
+ 1100 1200 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1100 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 600 l 1
+ 100 1100 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10316.rtlm
+EndChar
+
+StartChar: u10317.rtlm
+Encoding: 5253 -1 5253
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 550 800 l 1
+ 100 1250 l 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1350 l 1
+ 750 1000 l 1
+ 1100 1350 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1250 l 1
+ 950 800 l 1
+ 1400 350 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 250 l 1
+ 750 600 l 1
+ 400 250 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10317.rtlm
+EndChar
+
+StartChar: u10318.rtlm
+Encoding: 5254 -1 5254
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+900 200 m 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 900 200 l 1
+400 400 m 1
+ 600 200 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 400 l 1
+100 300 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 900 0 l 1
+ 900 -400 l 1
+ 600 -400 l 1
+ 600 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10318.rtlm
+EndChar
+
+StartChar: u10319.rtlm
+Encoding: 5255 -1 5255
+Width: 2100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1500 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 900 1100 l 1
+ 900 1600 l 1
+ 1200 1600 l 1
+ 1200 1100 l 1
+ 1700 1600 l 1
+ 2000 1600 l 1
+ 2000 1500 l 1
+ 1200 700 l 1
+ 1200 0 l 1
+ 900 0 l 1
+ 900 700 l 1
+ 100 1500 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10319.rtlm
+EndChar
+
+StartChar: u1031A.rtlm
+Encoding: 5256 -1 5256
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 600 l 1
+ 300 800 l 1
+ 100 1000 l 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 1000 l 1
+ 1200 800 l 1
+ 1400 600 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 500 l 1
+ 900 700 l 1
+ 600 700 l 1
+ 400 500 l 1
+ 400 400 l 1
+400 1100 m 1
+ 600 900 l 1
+ 900 900 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 1100 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031A.rtlm
+EndChar
+
+StartChar: u1031B.rtlm
+Encoding: 5257 -1 5257
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 700 l 1
+ 400 700 l 1
+ 100 1000 l 1
+400 1100 m 1
+ 600 900 l 1
+ 1100 900 l 1
+ 1100 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 400 1100 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1031C.rtlm
+Encoding: 5258 -1 5258
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 600 l 1
+ 400 900 l 1
+ 1100 900 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+400 400 m 1
+ 600 200 l 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 600 700 l 1
+ 400 500 l 1
+ 400 400 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1031D.rtlm
+Encoding: 5259 -1 5259
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 900 l 1
+ 1400 900 l 1
+ 1400 700 l 1
+ 400 700 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1031E.rtlm
+Encoding: 5260 -1 5260
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 500 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 600 l 1
+ 750 250 l 1
+ 1100 600 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 500 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 100 500 l 1
+600 1000 m 1
+ 600 1200 l 1
+ 900 1200 l 1
+ 900 1000 l 1
+ 600 1000 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031E.rtlm
+EndChar
+
+StartChar: u1031F.rtlm
+Encoding: 5261 -1 5261
+Width: 2100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 100 m 1
+ 100 200 l 1
+ 700 800 l 1
+ 100 1400 l 1
+ 100 1500 l 1
+ 400 1500 l 1
+ 900 1000 l 1
+ 900 1600 l 1
+ 1200 1600 l 1
+ 1200 1000 l 1
+ 1700 1500 l 1
+ 2000 1500 l 1
+ 2000 1400 l 1
+ 1400 800 l 1
+ 2000 200 l 1
+ 2000 100 l 1
+ 1700 100 l 1
+ 1200 600 l 1
+ 1200 0 l 1
+ 900 0 l 1
+ 900 600 l 1
+ 400 100 l 1
+ 100 100 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u1031F.rtlm
+EndChar
+
+StartChar: u10320.rtlm
+Encoding: 5262 -1 5262
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10320.rtlm
+EndChar
+
+StartChar: u10321.rtlm
+Encoding: 5263 -1 5263
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 1000 l 1
+ 750 1350 l 1
+ 400 1000 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10321.rtlm
+EndChar
+
+StartChar: u10322.rtlm
+Encoding: 5264 -1 5264
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 550 800 l 1
+ 100 1250 l 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1350 l 1
+ 750 1000 l 1
+ 1100 1350 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1250 l 1
+ 950 800 l 1
+ 1400 350 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 250 l 1
+ 750 600 l 1
+ 400 250 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10317.rtlm
+EndChar
+
+StartChar: u10323.rtlm
+Encoding: 5265 -1 5265
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 1000 l 1
+ 1100 1000 l 1
+ 900 1200 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 1200 l 1
+ 400 1000 l 1
+ 100 1000 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10323.rtlm
+EndChar
+
+StartChar: u1032D.rtlm
+Encoding: 5266 -1 5266
+Width: 1100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 800 l 1
+ 100 1400 l 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 1000 900 l 1
+ 1000 700 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1032E.rtlm
+Encoding: 5267 -1 5267
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1000 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 1000 l 1
+ 1100 1000 l 1
+ 900 1200 l 1
+ 900 0 l 1
+ 600 0 l 1
+ 600 1200 l 1
+ 400 1000 l 1
+ 100 1000 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "'rtlm' Right to Left mirrored forms lookup 15-1" u10323.rtlm
+EndChar
+
+StartChar: u1032F.rtlm
+Encoding: 5268 -1 5268
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 225 m 1
+ 100 425 l 1
+ 238 562 l 1
+ 100 700 l 1
+ 100 900 l 1
+ 238 1038 l 1
+ 100 1175 l 1
+ 100 1375 l 1
+ 325 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 325 0 l 1
+ 100 225 l 1
+400 325 m 1
+ 525 200 l 1
+ 1100 200 l 1
+ 1100 450 l 1
+ 525 450 l 1
+ 400 325 l 1
+400 800 m 1
+ 550 650 l 1
+ 1100 650 l 1
+ 1100 950 l 1
+ 550 950 l 1
+ 400 800 l 1
+400 1275 m 1
+ 525 1150 l 1
+ 1100 1150 l 1
+ 1100 1400 l 1
+ 525 1400 l 1
+ 400 1275 l 1
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
