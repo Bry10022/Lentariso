@@ -2,6 +2,12 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.017 - Released 11/02/2024
+
+Changes
+- Merged the two shapes at codepoint U+1FB1C into one. I did not notice the error until now.
+
+-------------------------------------------------------------------------------
 Version 1.016 - Released 11/02/2024
 
 Changes
