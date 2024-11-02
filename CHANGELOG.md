@@ -2,6 +2,12 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.016 - Released 11/02/2024
+
+Changes
+- Fixed the one box drawing character at U+251D as the right side was not heavy when it should have been.
+
+-------------------------------------------------------------------------------
 Version 1.015 - Released 10/17/2024
 
 Additions
