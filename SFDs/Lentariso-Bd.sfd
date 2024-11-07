@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.017
+Version: 1.018
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1730554284
+ModificationTime: 1730999933
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -55052,7 +55052,7 @@ EndChar
 StartChar: uni2713
 Encoding: 1969 10003 1969
 Width: 1500
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -73206,36 +73206,36 @@ EndChar
 
 StartChar: uni1D91
 Encoding: 2513 7569 2513
-Width: 1700
-Flags: HMW
+Width: 1500
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-100 300 m 1
- 100 900 l 1
- 400 1200 l 1
- 900 1200 l 1
- 900 1600 l 1
- 1200 1600 l 1
- 1200 200 l 1
- 1400 200 l 1
- 1400 -100 l 1
- 1600 -300 l 1
- 1600 -400 l 1
- 1300 -400 l 1
- 1100 -200 l 1
- 1100 0 l 1
- 400 0 l 1
- 100 300 l 1
-400 400 m 1
+400 800 m 1
+ 400 400 l 1
  600 200 l 1
  900 200 l 1
  900 1000 l 1
  600 1000 l 1
  400 800 l 1
- 400 400 l 1
+400 0 m 1
+ 100 300 l 1
+ 100 900 l 1
+ 400 1200 l 1
+ 900 1200 l 1
+ 900 1400 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 1500 l 1
+ 1200 1300 l 1
+ 1200 -100 l 1
+ 1400 -300 l 1
+ 1400 -400 l 1
+ 1100 -400 l 1
+ 900 -200 l 1
+ 900 0 l 1
+ 400 0 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni1D92
@@ -77200,7 +77200,7 @@ EndChar
 
 StartChar: uniA7BA
 Encoding: 2635 42938 2635
-Width: 1900
+Width: 2000
 Flags: HMW
 LayerCount: 2
 Fore
@@ -77231,7 +77231,6 @@ SplineSet
  900 1000 l 1
  900 600 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniA7BB
@@ -77278,7 +77277,7 @@ EndChar
 
 StartChar: uniA7BC
 Encoding: 2637 42940 2637
-Width: 1500
+Width: 1600
 Flags: HMW
 LayerCount: 2
 Fore
@@ -77305,7 +77304,6 @@ SplineSet
  1500 0 l 1
  600 0 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniA7BD
@@ -77334,7 +77332,7 @@ EndChar
 
 StartChar: uniA7BE
 Encoding: 2639 42942 2639
-Width: 1900
+Width: 2000
 Flags: HMW
 LayerCount: 2
 Fore
@@ -77361,7 +77359,6 @@ SplineSet
  900 0 l 1
  600 300 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniA7BF

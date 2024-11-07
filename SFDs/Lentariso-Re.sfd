@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Regular
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.017
+Version: 1.018
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1730554303
+ModificationTime: 1730999856
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55149,7 +55149,7 @@ EndChar
 StartChar: uni2713
 Encoding: 1969 10003 1969
 Width: 1400
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -73365,36 +73365,36 @@ EndChar
 
 StartChar: uni1D91
 Encoding: 2513 7569 2513
-Width: 1600
-Flags: HMW
+Width: 1400
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-100 300 m 1
- 100 900 l 1
- 400 1200 l 1
- 900 1200 l 1
- 900 1600 l 1
- 1100 1600 l 1
- 1100 200 l 1
- 1300 200 l 1
- 1300 -100 l 1
- 1500 -300 l 1
- 1500 -400 l 1
- 1300 -400 l 1
- 1100 -200 l 1
- 1100 0 l 1
- 400 0 l 1
- 100 300 l 1
-300 400 m 1
+300 800 m 1
+ 300 400 l 1
  500 200 l 1
  900 200 l 1
  900 1000 l 1
  500 1000 l 1
  300 800 l 1
- 300 400 l 1
+400 0 m 1
+ 100 300 l 1
+ 100 900 l 1
+ 400 1200 l 1
+ 900 1200 l 1
+ 900 1400 l 1
+ 1100 1600 l 1
+ 1300 1600 l 1
+ 1300 1500 l 1
+ 1100 1300 l 1
+ 1100 -100 l 1
+ 1300 -300 l 1
+ 1300 -400 l 1
+ 1100 -400 l 1
+ 900 -200 l 1
+ 900 0 l 1
+ 400 0 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni1D92
