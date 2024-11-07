@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.018 - Released 11/07/2024
+
+Changes
+- Fixed U+1D91 as it was a small D with retroflex hook, when it should have been a small D with tail and hook.
+- Fixed spacing on capital glottal letters in the Latin Extended-D block in Bold and Bold Italic styles. They were fine on the Regular and Italic styles though.
+
+-------------------------------------------------------------------------------
 Version 1.017 - Released 11/02/2024
 
 Changes
