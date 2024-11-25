@@ -7,6 +7,9 @@ Version 1.019 - Released 11/24/2024
 Additions
 - Added the Elbasan, Vithkuqi — albeit simplified to make it work, and Pau Cin Hau scripts.
 
+Changes
+- Made U+2017 italic in italic styles for consistency with the underscore.
+
 -------------------------------------------------------------------------------
 
 Version 1.018 - Released 11/07/2024
