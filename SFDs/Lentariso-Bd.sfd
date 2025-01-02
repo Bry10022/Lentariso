@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.019
+Version: 1.020
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1732492061
+ModificationTime: 1735779494
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -60,6 +60,7 @@ Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12-1
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 13" { "'ccmp' Glyph Composition/Decomposition lookup 13-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 1 "'rlig' Required Ligatures lookup 14" { "'rlig' Required Ligatures lookup 14-1"  } ['rlig' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'rtlm' Right to Left mirrored forms lookup 15" { "'rtlm' Right to Left mirrored forms lookup 15-1"  } ['rtlm' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'ital' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 16" { "'ccmp' Glyph Composition/Decomposition lookup 16-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning for Latin lookup 0-1" [360,0,6] "'kern' Horizontal Kerning for Cyrillic lookup 0-2" [360,0,6] "'kern' Horizontal Kerning for Greek lookup 0-3" [360,0,6] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'LTH ' 'MOL ' 'NLD ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -161,7 +162,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 5248 16 12
+WinInfo: 5408 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -179,7 +180,7 @@ Grid
   Named: "Ascent"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 524288 -740994 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 5436 5436
+BeginChars: 5594 5594
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -3342,38 +3343,37 @@ EndChar
 
 StartChar: trademark
 Encoding: 118 8482 118
-Width: 2600
+Width: 2800
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
 100 1400 m 1
  100 1600 l 1
- 1000 1600 l 1
- 1000 1400 l 1
- 700 1400 l 1
- 700 400 l 1
- 400 400 l 1
- 400 1400 l 1
- 100 1400 l 1
-1200 400 m 1
  1200 1600 l 1
- 1500 1600 l 1
- 1850 1250 l 1
- 2200 1600 l 1
- 2500 1600 l 1
- 2500 400 l 1
- 2200 400 l 1
- 2200 1200 l 1
- 2000 1000 l 1
- 2000 600 l 1
- 1700 600 l 1
- 1700 1000 l 1
- 1500 1200 l 1
- 1500 400 l 1
- 1200 400 l 1
+ 1200 1400 l 1
+ 800 1400 l 1
+ 800 400 l 1
+ 500 400 l 1
+ 500 1400 l 1
+ 100 1400 l 1
+1400 400 m 1
+ 1400 1600 l 1
+ 1700 1600 l 1
+ 2050 1250 l 1
+ 2400 1600 l 1
+ 2700 1600 l 1
+ 2700 400 l 1
+ 2400 400 l 1
+ 2400 1200 l 1
+ 2200 1000 l 1
+ 2200 600 l 1
+ 1900 600 l 1
+ 1900 1000 l 1
+ 1700 1200 l 1
+ 1700 400 l 1
+ 1400 400 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: scaron
@@ -166463,7 +166463,7 @@ EndChar
 StartChar: u10500
 Encoding: 5269 66816 5269
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166498,7 +166498,7 @@ EndChar
 StartChar: u10501
 Encoding: 5270 66817 5270
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166528,7 +166528,7 @@ EndChar
 StartChar: u10502
 Encoding: 5271 66818 5271
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166554,7 +166554,7 @@ EndChar
 StartChar: u10503
 Encoding: 5272 66819 5272
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166585,7 +166585,7 @@ EndChar
 StartChar: u10504
 Encoding: 5273 66820 5273
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166604,7 +166604,7 @@ EndChar
 StartChar: u10505
 Encoding: 5274 66821 5274
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166628,7 +166628,7 @@ EndChar
 StartChar: u10506
 Encoding: 5275 66822 5275
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166651,7 +166651,7 @@ EndChar
 StartChar: u10507
 Encoding: 5276 66823 5276
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166672,7 +166672,7 @@ EndChar
 StartChar: u10508
 Encoding: 5277 66824 5277
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166700,7 +166700,7 @@ StartChar: u10509
 Encoding: 5278 66825 5278
 Width: 1300
 VWidth: 1600
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166729,7 +166729,7 @@ StartChar: u1050A
 Encoding: 5279 66826 5279
 Width: 1500
 VWidth: 1600
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166762,7 +166762,7 @@ EndChar
 StartChar: u1050B
 Encoding: 5280 66827 5280
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166801,7 +166801,7 @@ EndChar
 StartChar: u1050C
 Encoding: 5281 66828 5281
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166829,7 +166829,7 @@ EndChar
 StartChar: u1050D
 Encoding: 5282 66829 5282
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166852,7 +166852,7 @@ EndChar
 StartChar: u1050E
 Encoding: 5283 66830 5283
 Width: 500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166867,7 +166867,7 @@ EndChar
 StartChar: u1050F
 Encoding: 5284 66831 5284
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166884,7 +166884,7 @@ EndChar
 StartChar: u10510
 Encoding: 5285 66832 5285
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166906,7 +166906,7 @@ EndChar
 StartChar: u10511
 Encoding: 5286 66833 5286
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166933,7 +166933,7 @@ EndChar
 StartChar: u10512
 Encoding: 5287 66834 5287
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166952,7 +166952,7 @@ EndChar
 StartChar: u10513
 Encoding: 5288 66835 5288
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166975,7 +166975,7 @@ EndChar
 StartChar: u10514
 Encoding: 5289 66836 5289
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -166997,7 +166997,7 @@ EndChar
 StartChar: u10515
 Encoding: 5290 66837 5290
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167014,7 +167014,7 @@ EndChar
 StartChar: u10516
 Encoding: 5291 66838 5291
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167042,7 +167042,7 @@ EndChar
 StartChar: u10517
 Encoding: 5292 66839 5292
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167061,7 +167061,7 @@ EndChar
 StartChar: u10518
 Encoding: 5293 66840 5293
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167085,7 +167085,7 @@ EndChar
 StartChar: u10519
 Encoding: 5294 66841 5294
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167106,7 +167106,7 @@ EndChar
 StartChar: u1051A
 Encoding: 5295 66842 5295
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167132,7 +167132,7 @@ EndChar
 StartChar: u1051B
 Encoding: 5296 66843 5296
 Width: 1100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167155,7 +167155,7 @@ EndChar
 StartChar: u1051C
 Encoding: 5297 66844 5297
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167179,7 +167179,7 @@ EndChar
 StartChar: u1051D
 Encoding: 5298 66845 5298
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167201,7 +167201,7 @@ EndChar
 StartChar: u1051E
 Encoding: 5299 66846 5299
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167234,7 +167234,7 @@ EndChar
 StartChar: u1051F
 Encoding: 5300 66847 5300
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167268,7 +167268,7 @@ EndChar
 StartChar: u10520
 Encoding: 5301 66848 5301
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167289,7 +167289,7 @@ EndChar
 StartChar: u10521
 Encoding: 5302 66849 5302
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167315,7 +167315,7 @@ EndChar
 StartChar: u10522
 Encoding: 5303 66850 5303
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167354,7 +167354,7 @@ EndChar
 StartChar: u10523
 Encoding: 5304 66851 5304
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167381,7 +167381,7 @@ EndChar
 StartChar: u10524
 Encoding: 5305 66852 5305
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167407,7 +167407,7 @@ EndChar
 StartChar: u10525
 Encoding: 5306 66853 5306
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167428,7 +167428,7 @@ EndChar
 StartChar: u10526
 Encoding: 5307 66854 5307
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167445,7 +167445,7 @@ EndChar
 StartChar: u10527
 Encoding: 5308 66855 5308
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167476,7 +167476,7 @@ EndChar
 StartChar: u10570
 Encoding: 5309 66928 5309
 Width: 2300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167513,7 +167513,7 @@ EndChar
 StartChar: u10571
 Encoding: 5310 66929 5310
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167543,7 +167543,7 @@ EndChar
 StartChar: u10572
 Encoding: 5311 66930 5311
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167578,7 +167578,7 @@ EndChar
 StartChar: u10573
 Encoding: 5312 66931 5312
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167610,7 +167610,7 @@ EndChar
 StartChar: u10574
 Encoding: 5313 66932 5313
 Width: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167649,7 +167649,7 @@ EndChar
 StartChar: u10575
 Encoding: 5314 66933 5314
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167684,7 +167684,7 @@ EndChar
 StartChar: u10576
 Encoding: 5315 66934 5315
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167711,7 +167711,7 @@ EndChar
 StartChar: u10577
 Encoding: 5316 66935 5316
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167735,7 +167735,7 @@ EndChar
 StartChar: u10578
 Encoding: 5317 66936 5317
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167763,7 +167763,7 @@ EndChar
 StartChar: u10579
 Encoding: 5318 66937 5318
 Width: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167798,7 +167798,7 @@ EndChar
 StartChar: u1057A
 Encoding: 5319 66938 5319
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167829,7 +167829,7 @@ EndChar
 StartChar: u1057C
 Encoding: 5320 66940 5320
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167863,7 +167863,7 @@ EndChar
 StartChar: u1057D
 Encoding: 5321 66941 5321
 Width: 3300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167915,7 +167915,7 @@ EndChar
 StartChar: u1057E
 Encoding: 5322 66942 5322
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167943,7 +167943,7 @@ EndChar
 StartChar: u1057F
 Encoding: 5323 66943 5323
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -167982,7 +167982,7 @@ EndChar
 StartChar: u10580
 Encoding: 5324 66944 5324
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168019,7 +168019,7 @@ EndChar
 StartChar: u10581
 Encoding: 5325 66945 5325
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168050,7 +168050,7 @@ EndChar
 StartChar: u10582
 Encoding: 5326 66946 5326
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168077,7 +168077,7 @@ EndChar
 StartChar: u10583
 Encoding: 5327 66947 5327
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168104,7 +168104,7 @@ EndChar
 StartChar: u10584
 Encoding: 5328 66948 5328
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168137,7 +168137,7 @@ EndChar
 StartChar: u10585
 Encoding: 5329 66949 5329
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168161,7 +168161,7 @@ EndChar
 StartChar: u10586
 Encoding: 5330 66950 5330
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168185,7 +168185,7 @@ EndChar
 StartChar: u10587
 Encoding: 5331 66951 5331
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168213,7 +168213,7 @@ EndChar
 StartChar: u10588
 Encoding: 5332 66952 5332
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168249,7 +168249,7 @@ EndChar
 StartChar: u10589
 Encoding: 5333 66953 5333
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168287,7 +168287,7 @@ EndChar
 StartChar: u1058A
 Encoding: 5334 66954 5334
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168316,7 +168316,7 @@ EndChar
 StartChar: u1058C
 Encoding: 5335 66956 5335
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168345,7 +168345,7 @@ EndChar
 StartChar: u1058D
 Encoding: 5336 66957 5336
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168379,7 +168379,7 @@ EndChar
 StartChar: u1058E
 Encoding: 5337 66958 5337
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168417,7 +168417,7 @@ EndChar
 StartChar: u1058F
 Encoding: 5338 66959 5338
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168443,7 +168443,7 @@ EndChar
 StartChar: u10590
 Encoding: 5339 66960 5339
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168470,7 +168470,7 @@ EndChar
 StartChar: u10591
 Encoding: 5340 66961 5340
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168495,7 +168495,7 @@ EndChar
 StartChar: u10592
 Encoding: 5341 66962 5341
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168519,7 +168519,7 @@ EndChar
 StartChar: u10594
 Encoding: 5342 66964 5342
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168557,7 +168557,7 @@ EndChar
 StartChar: u10595
 Encoding: 5343 66965 5343
 Width: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168602,7 +168602,7 @@ EndChar
 StartChar: u10597
 Encoding: 5344 66967 5344
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168639,7 +168639,7 @@ EndChar
 StartChar: u10598
 Encoding: 5345 66968 5345
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168668,7 +168668,7 @@ EndChar
 StartChar: u10599
 Encoding: 5346 66969 5346
 Width: 1100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168702,7 +168702,7 @@ EndChar
 StartChar: u1059A
 Encoding: 5347 66970 5347
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168734,7 +168734,7 @@ EndChar
 StartChar: u1059B
 Encoding: 5348 66971 5348
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168773,7 +168773,7 @@ EndChar
 StartChar: u1059C
 Encoding: 5349 66972 5349
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168808,7 +168808,7 @@ EndChar
 StartChar: u1059D
 Encoding: 5350 66973 5350
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168835,7 +168835,7 @@ EndChar
 StartChar: u1059E
 Encoding: 5351 66974 5351
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168859,7 +168859,7 @@ EndChar
 StartChar: u1059F
 Encoding: 5352 66975 5352
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168887,7 +168887,7 @@ EndChar
 StartChar: u105A0
 Encoding: 5353 66976 5353
 Width: 2300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168921,7 +168921,7 @@ EndChar
 StartChar: u105A1
 Encoding: 5354 66977 5354
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168952,7 +168952,7 @@ EndChar
 StartChar: u105A3
 Encoding: 5355 66979 5355
 Width: 1100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -168986,7 +168986,7 @@ EndChar
 StartChar: u105A4
 Encoding: 5356 66980 5356
 Width: 2900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169037,7 +169037,7 @@ EndChar
 StartChar: u105A5
 Encoding: 5357 66981 5357
 Width: 900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169062,7 +169062,7 @@ EndChar
 StartChar: u105A6
 Encoding: 5358 66982 5358
 Width: 900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169098,7 +169098,7 @@ EndChar
 StartChar: u105A7
 Encoding: 5359 66983 5359
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169134,7 +169134,7 @@ EndChar
 StartChar: u105A8
 Encoding: 5360 66984 5360
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169165,7 +169165,7 @@ EndChar
 StartChar: u105A9
 Encoding: 5361 66985 5361
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169192,7 +169192,7 @@ EndChar
 StartChar: u105AA
 Encoding: 5362 66986 5362
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169219,7 +169219,7 @@ EndChar
 StartChar: u105AB
 Encoding: 5363 66987 5363
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169252,7 +169252,7 @@ EndChar
 StartChar: u105AC
 Encoding: 5364 66988 5364
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169274,7 +169274,7 @@ EndChar
 StartChar: u105AD
 Encoding: 5365 66989 5365
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169298,7 +169298,7 @@ EndChar
 StartChar: u105AE
 Encoding: 5366 66990 5366
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169326,7 +169326,7 @@ EndChar
 StartChar: u105AF
 Encoding: 5367 66991 5367
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169362,7 +169362,7 @@ EndChar
 StartChar: u105B0
 Encoding: 5368 66992 5368
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169400,7 +169400,7 @@ EndChar
 StartChar: u105B1
 Encoding: 5369 66993 5369
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169425,7 +169425,7 @@ EndChar
 StartChar: u105B3
 Encoding: 5370 66995 5370
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169453,7 +169453,7 @@ EndChar
 StartChar: u105B4
 Encoding: 5371 66996 5371
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169486,7 +169486,7 @@ EndChar
 StartChar: u105B5
 Encoding: 5372 66997 5372
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169521,7 +169521,7 @@ EndChar
 StartChar: u105B6
 Encoding: 5373 66998 5373
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169547,7 +169547,7 @@ EndChar
 StartChar: u105B7
 Encoding: 5374 66999 5374
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169574,7 +169574,7 @@ EndChar
 StartChar: u105B8
 Encoding: 5375 67000 5375
 Width: 1300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169599,7 +169599,7 @@ EndChar
 StartChar: u105B9
 Encoding: 5376 67001 5376
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169623,7 +169623,7 @@ EndChar
 StartChar: u105BB
 Encoding: 5377 67003 5377
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169661,7 +169661,7 @@ EndChar
 StartChar: u105BC
 Encoding: 5378 67004 5378
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169706,7 +169706,7 @@ EndChar
 StartChar: u11AC0
 Encoding: 5379 72384 5379
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169744,7 +169744,7 @@ EndChar
 StartChar: u11AC1
 Encoding: 5380 72385 5380
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169779,7 +169779,7 @@ EndChar
 StartChar: u11AC2
 Encoding: 5381 72386 5381
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169808,7 +169808,7 @@ EndChar
 StartChar: u11AC3
 Encoding: 5382 72387 5382
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169843,7 +169843,7 @@ EndChar
 StartChar: u11AC4
 Encoding: 5383 72388 5383
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169877,7 +169877,7 @@ EndChar
 StartChar: u11AC5
 Encoding: 5384 72389 5384
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169904,7 +169904,7 @@ EndChar
 StartChar: u11AC6
 Encoding: 5385 72390 5385
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169931,7 +169931,7 @@ EndChar
 StartChar: u11AC7
 Encoding: 5386 72391 5386
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169962,7 +169962,7 @@ StartChar: u11AC8
 Encoding: 5387 72392 5387
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -169997,7 +169997,7 @@ EndChar
 StartChar: u11AC9
 Encoding: 5388 72393 5388
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170017,7 +170017,7 @@ EndChar
 StartChar: u11ACA
 Encoding: 5389 72394 5389
 Width: 2200
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170055,7 +170055,7 @@ EndChar
 StartChar: u11ACB
 Encoding: 5390 72395 5390
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170088,7 +170088,7 @@ EndChar
 StartChar: u11ACC
 Encoding: 5391 72396 5391
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170126,7 +170126,7 @@ EndChar
 StartChar: u11ACD
 Encoding: 5392 72397 5392
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170149,7 +170149,7 @@ EndChar
 StartChar: u11ACE
 Encoding: 5393 72398 5393
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170167,7 +170167,7 @@ StartChar: u11ACF
 Encoding: 5394 72399 5394
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170208,7 +170208,7 @@ EndChar
 StartChar: u11AD0
 Encoding: 5395 72400 5395
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170238,7 +170238,7 @@ EndChar
 StartChar: u11AD1
 Encoding: 5396 72401 5396
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170261,7 +170261,7 @@ EndChar
 StartChar: u11AD2
 Encoding: 5397 72402 5397
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170289,7 +170289,7 @@ EndChar
 StartChar: u11AD3
 Encoding: 5398 72403 5398
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170312,7 +170312,7 @@ EndChar
 StartChar: u11AD4
 Encoding: 5399 72404 5399
 Width: 2300
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170350,7 +170350,7 @@ EndChar
 StartChar: u11AD5
 Encoding: 5400 72405 5400
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170384,7 +170384,7 @@ EndChar
 StartChar: u11AD6
 Encoding: 5401 72406 5401
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170421,7 +170421,7 @@ EndChar
 StartChar: u11AD7
 Encoding: 5402 72407 5402
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170443,7 +170443,7 @@ EndChar
 StartChar: u11AD8
 Encoding: 5403 72408 5403
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170471,7 +170471,7 @@ StartChar: u11AD9
 Encoding: 5404 72409 5404
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170497,7 +170497,7 @@ EndChar
 StartChar: u11ADA
 Encoding: 5405 72410 5405
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170528,7 +170528,7 @@ StartChar: u11ADB
 Encoding: 5406 72411 5406
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170550,7 +170550,7 @@ EndChar
 StartChar: u11ADC
 Encoding: 5407 72412 5407
 Width: 1700
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170586,7 +170586,7 @@ EndChar
 StartChar: u11ADD
 Encoding: 5408 72413 5408
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170605,7 +170605,7 @@ EndChar
 StartChar: u11ADE
 Encoding: 5409 72414 5409
 Width: 2100
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170641,7 +170641,7 @@ EndChar
 StartChar: u11ADF
 Encoding: 5410 72415 5410
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170663,7 +170663,7 @@ EndChar
 StartChar: u11AE0
 Encoding: 5411 72416 5411
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170706,7 +170706,7 @@ StartChar: u11AE1
 Encoding: 5412 72417 5412
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170729,7 +170729,7 @@ EndChar
 StartChar: u11AE2
 Encoding: 5413 72418 5413
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170756,7 +170756,7 @@ StartChar: u11AE3
 Encoding: 5414 72419 5414
 Width: 1500
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170798,7 +170798,7 @@ EndChar
 StartChar: u11AE4
 Encoding: 5415 72420 5415
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170826,7 +170826,7 @@ EndChar
 StartChar: u11AE5
 Encoding: 5416 72421 5416
 Width: 500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170841,7 +170841,7 @@ EndChar
 StartChar: u11AE6
 Encoding: 5417 72422 5417
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170861,7 +170861,7 @@ EndChar
 StartChar: u11AE7
 Encoding: 5418 72423 5418
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170886,7 +170886,7 @@ EndChar
 StartChar: u11AE8
 Encoding: 5419 72424 5419
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170906,7 +170906,7 @@ EndChar
 StartChar: u11AE9
 Encoding: 5420 72425 5420
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170931,7 +170931,7 @@ EndChar
 StartChar: u11AEA
 Encoding: 5421 72426 5421
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170961,7 +170961,7 @@ EndChar
 StartChar: u11AEB
 Encoding: 5422 72427 5422
 Width: 900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -170980,7 +170980,7 @@ EndChar
 StartChar: u11AEC
 Encoding: 5423 72428 5423
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171004,7 +171004,7 @@ EndChar
 StartChar: u11AED
 Encoding: 5424 72429 5424
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171032,7 +171032,7 @@ EndChar
 StartChar: u11AEE
 Encoding: 5425 72430 5425
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171065,7 +171065,7 @@ EndChar
 StartChar: u11AEF
 Encoding: 5426 72431 5426
 Width: 500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171080,7 +171080,7 @@ EndChar
 StartChar: u11AF0
 Encoding: 5427 72432 5427
 Width: 500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171100,7 +171100,7 @@ EndChar
 StartChar: u11AF1
 Encoding: 5428 72433 5428
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171127,7 +171127,7 @@ EndChar
 StartChar: u11AF2
 Encoding: 5429 72434 5429
 Width: 1500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171159,7 +171159,7 @@ EndChar
 StartChar: u11AF3
 Encoding: 5430 72435 5430
 Width: 900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171178,7 +171178,7 @@ EndChar
 StartChar: u11AF4
 Encoding: 5431 72436 5431
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171202,7 +171202,7 @@ EndChar
 StartChar: u11AF5
 Encoding: 5432 72437 5432
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171231,7 +171231,7 @@ EndChar
 StartChar: u11AF6
 Encoding: 5433 72438 5433
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171259,7 +171259,7 @@ EndChar
 StartChar: u11AF7
 Encoding: 5434 72439 5434
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171292,7 +171292,7 @@ EndChar
 StartChar: u11AF8
 Encoding: 5435 72440 5435
 Width: 1900
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -171325,6 +171325,4343 @@ SplineSet
  500 0 l 1
  100 0 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni2132
+Encoding: 5436 8498 5436
+Width: 1500
+VWidth: 2500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 1100 200 l 1
+ 1100 700 l 1
+ 300 700 l 1
+ 300 900 l 1
+ 1100 900 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni214E
+Encoding: 5437 8526 5437
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 900 200 l 1
+ 900 500 l 1
+ 300 500 l 1
+ 300 700 l 1
+ 900 700 l 1
+ 900 1200 l 1
+ 1200 1200 l 1
+ 1200 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2183
+Encoding: 5438 8579 5438
+Width: 1500
+VWidth: 2500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 400 l 1
+ 400 400 l 1
+ 600 200 l 1
+ 900 200 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 600 1400 l 1
+ 400 1200 l 1
+ 100 1200 l 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1100 1600 l 1
+ 1400 1300 l 1
+ 1400 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2184
+Encoding: 5439 8580 5439
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 400 l 1
+ 400 400 l 1
+ 600 200 l 1
+ 700 200 l 1
+ 900 400 l 1
+ 900 800 l 1
+ 700 1000 l 1
+ 600 1000 l 1
+ 400 800 l 1
+ 100 800 l 1
+ 100 900 l 1
+ 400 1200 l 1
+ 900 1200 l 1
+ 1200 900 l 1
+ 1200 300 l 1
+ 900 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2109
+Encoding: 5440 8457 5440
+Width: 2600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1200 0 m 1
+ 1200 1600 l 1
+ 2500 1600 l 1
+ 2500 1400 l 1
+ 1500 1400 l 1
+ 1500 900 l 1
+ 2300 900 l 1
+ 2300 700 l 1
+ 1500 700 l 1
+ 1500 0 l 1
+ 1200 0 l 1
+100 1000 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 800 1600 l 1
+ 1000 1400 l 1
+ 1000 1000 l 1
+ 800 800 l 1
+ 300 800 l 1
+ 100 1000 l 1
+400 1100 m 1
+ 500 1000 l 1
+ 600 1000 l 1
+ 700 1100 l 1
+ 700 1300 l 1
+ 600 1400 l 1
+ 500 1400 l 1
+ 400 1300 l 1
+ 400 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2103
+Encoding: 5441 8451 5441
+Width: 2600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1200 300 m 1
+ 1200 1300 l 1
+ 1500 1600 l 1
+ 2200 1600 l 1
+ 2500 1300 l 1
+ 2500 1200 l 1
+ 2200 1200 l 1
+ 2000 1400 l 1
+ 1700 1400 l 1
+ 1500 1200 l 1
+ 1500 400 l 1
+ 1700 200 l 1
+ 2000 200 l 1
+ 2200 400 l 1
+ 2500 400 l 1
+ 2500 300 l 1
+ 2200 0 l 1
+ 1500 0 l 1
+ 1200 300 l 1
+100 1000 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 800 1600 l 1
+ 1000 1400 l 1
+ 1000 1000 l 1
+ 800 800 l 1
+ 300 800 l 1
+ 100 1000 l 1
+400 1100 m 1
+ 500 1000 l 1
+ 600 1000 l 1
+ 700 1100 l 1
+ 700 1300 l 1
+ 600 1400 l 1
+ 500 1400 l 1
+ 400 1300 l 1
+ 400 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni212A
+Encoding: 5442 8490 5442
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 400 1100 l 1
+ 900 1600 l 1
+ 1200 1600 l 1
+ 1200 1500 l 1
+ 600 900 l 1
+ 1400 100 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 400 700 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni212B
+Encoding: 5443 8491 5443
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1100 l 1
+ 600 1600 l 1
+ 500 1600 l 1
+ 400 1700 l 1
+ 400 1900 l 1
+ 500 2000 l 1
+ 1000 2000 l 1
+ 1100 1900 l 1
+ 1100 1700 l 1
+ 1000 1600 l 1
+ 900 1600 l 1
+ 1400 1100 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1100 400 l 1
+ 400 400 l 1
+ 400 0 l 1
+ 100 0 l 1
+400 600 m 1
+ 1100 600 l 1
+ 1100 1000 l 1
+ 750 1350 l 1
+ 400 1000 l 1
+ 400 600 l 1
+650 1700 m 1
+ 850 1700 l 1
+ 850 1900 l 1
+ 650 1900 l 1
+ 650 1700 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2125
+Encoding: 5444 8485 5444
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 400 0 l 1
+ 600 -200 l 1
+ 800 -200 l 1
+ 900 -100 l 1
+ 900 100 l 1
+ 800 200 l 1
+ 400 200 l 1
+ 400 400 l 1
+ 800 800 l 1
+ 400 800 l 1
+ 400 1000 l 1
+ 800 1400 l 1
+ 100 1400 l 1
+ 100 1600 l 1
+ 1200 1600 l 1
+ 1200 1400 l 1
+ 800 1000 l 1
+ 1200 1000 l 1
+ 1200 800 l 1
+ 800 400 l 1
+ 1000 400 l 1
+ 1200 200 l 1
+ 1200 -200 l 1
+ 1000 -400 l 1
+ 400 -400 l 1
+ 100 -100 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2120
+Encoding: 5445 8480 5445
+Width: 2800
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 1
+ 100 700 l 1
+ 400 700 l 1
+ 500 600 l 1
+ 800 600 l 1
+ 900 700 l 1
+ 900 800 l 1
+ 800 900 l 1
+ 300 900 l 1
+ 100 1100 l 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 1000 1600 l 1
+ 1200 1400 l 1
+ 1200 1300 l 1
+ 900 1300 l 1
+ 800 1400 l 1
+ 500 1400 l 1
+ 400 1300 l 1
+ 400 1200 l 1
+ 500 1100 l 1
+ 1000 1100 l 1
+ 1200 900 l 1
+ 1200 600 l 1
+ 1000 400 l 1
+ 300 400 l 1
+ 100 600 l 1
+1400 400 m 1
+ 1400 1600 l 1
+ 1700 1600 l 1
+ 2050 1250 l 1
+ 2400 1600 l 1
+ 2700 1600 l 1
+ 2700 400 l 1
+ 2400 400 l 1
+ 2400 1200 l 1
+ 2200 1000 l 1
+ 2200 600 l 1
+ 1900 600 l 1
+ 1900 1000 l 1
+ 1700 1200 l 1
+ 1700 400 l 1
+ 1400 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1F16A
+Encoding: 5446 127338 5446
+Width: 2800
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 400 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 400 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1000 l 1
+ 900 600 l 1
+ 600 600 l 1
+ 600 1000 l 1
+ 400 1200 l 1
+ 400 400 l 1
+ 100 400 l 1
+1600 700 m 1
+ 1600 1300 l 1
+ 1900 1600 l 1
+ 2400 1600 l 1
+ 2700 1300 l 1
+ 2700 1200 l 1
+ 2400 1200 l 1
+ 2200 1400 l 1
+ 2100 1400 l 1
+ 1900 1200 l 1
+ 1900 800 l 1
+ 2100 600 l 1
+ 2200 600 l 1
+ 2400 800 l 1
+ 2700 800 l 1
+ 2700 700 l 1
+ 2400 400 l 1
+ 1900 400 l 1
+ 1600 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1F16B
+Encoding: 5447 127339 5447
+Width: 2800
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 400 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 400 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1000 l 1
+ 900 600 l 1
+ 600 600 l 1
+ 600 1000 l 1
+ 400 1200 l 1
+ 400 400 l 1
+ 100 400 l 1
+1600 400 m 1
+ 1600 600 l 1
+ 1800 600 l 1
+ 1800 1400 l 1
+ 1600 1400 l 1
+ 1600 1600 l 1
+ 2400 1600 l 1
+ 2700 1300 l 1
+ 2700 700 l 1
+ 2400 400 l 1
+ 1600 400 l 1
+2100 600 m 1
+ 2200 600 l 1
+ 2400 800 l 1
+ 2400 1200 l 1
+ 2200 1400 l 1
+ 2100 1400 l 1
+ 2100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1F16C
+Encoding: 5448 127340 5448
+Width: 2800
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1900 1100 m 1
+ 2300 1100 l 1
+ 2400 1200 l 1
+ 2400 1300 l 1
+ 2300 1400 l 1
+ 1900 1400 l 1
+ 1900 1100 l 1
+1600 400 m 1
+ 1600 1600 l 1
+ 2500 1600 l 1
+ 2700 1400 l 1
+ 2700 1100 l 1
+ 2500 900 l 1
+ 2300 900 l 1
+ 2700 500 l 1
+ 2700 400 l 1
+ 2400 400 l 1
+ 1900 900 l 1
+ 1900 400 l 1
+ 1600 400 l 1
+100 400 m 1
+ 100 1600 l 1
+ 400 1600 l 1
+ 750 1250 l 1
+ 1100 1600 l 1
+ 1400 1600 l 1
+ 1400 400 l 1
+ 1100 400 l 1
+ 1100 1200 l 1
+ 900 1000 l 1
+ 900 600 l 1
+ 600 600 l 1
+ 600 1000 l 1
+ 400 1200 l 1
+ 400 400 l 1
+ 100 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02E5
+Encoding: 5449 741 5449
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02E6
+Encoding: 5450 742 5450
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1250 l 1
+ 700 1250 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02E7
+Encoding: 5451 743 5451
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 700 900 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 700 l 1
+ 100 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02E8
+Encoding: 5452 744 5452
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 550 l 1
+ 700 550 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 350 l 1
+ 100 350 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02E9
+Encoding: 5453 745 5453
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 200 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02E5_uni02E5_uni02E6.ccmp
+Encoding: 5454 -1 5454
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 900 1350 l 1
+ 1000 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 900 1050 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E6
+EndChar
+
+StartChar: uni02E5_uni02E5_uni02E7.ccmp
+Encoding: 5455 -1 5455
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E7
+EndChar
+
+StartChar: uni02E5_uni02E5_uni02E8.ccmp
+Encoding: 5456 -1 5456
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E8
+EndChar
+
+StartChar: uni02E5_uni02E5_uni02E9.ccmp
+Encoding: 5457 -1 5457
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1400 m 1
+ 100 1600 l 1
+ 900 1600 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 100 1400 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E9
+EndChar
+
+StartChar: uni02E5_uni02E6_uni02E5.ccmp
+Encoding: 5458 -1 5458
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1250 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1350 l 1
+ 400 1250 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 1050 l 1
+ 300 1050 l 1
+ 100 1250 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E5
+EndChar
+
+StartChar: uni02E5_uni02E6_uni02E6.ccmp
+Encoding: 5459 -1 5459
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1250 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1350 l 1
+ 400 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 300 1050 l 1
+ 100 1250 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E6
+EndChar
+
+StartChar: uni02E5_uni02E6_uni02E7.ccmp
+Encoding: 5460 -1 5460
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1250 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1350 l 1
+ 400 1250 l 1
+ 900 1250 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 300 1050 l 1
+ 100 1250 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E7
+EndChar
+
+StartChar: uni02E5_uni02E6_uni02E8.ccmp
+Encoding: 5461 -1 5461
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1250 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1350 l 1
+ 400 1250 l 1
+ 900 1250 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 300 1050 l 1
+ 100 1250 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E8
+EndChar
+
+StartChar: uni02E5_uni02E6_uni02E9.ccmp
+Encoding: 5462 -1 5462
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1250 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1350 l 1
+ 400 1250 l 1
+ 900 1250 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 300 1050 l 1
+ 100 1250 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E9
+EndChar
+
+StartChar: uni02E5_uni02E7_uni02E5.ccmp
+Encoding: 5463 -1 5463
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E5
+EndChar
+
+StartChar: uni02E5_uni02E7_uni02E6.ccmp
+Encoding: 5464 -1 5464
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E6
+EndChar
+
+StartChar: uni02E5_uni02E7_uni02E7.ccmp
+Encoding: 5465 -1 5465
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E7
+EndChar
+
+StartChar: uni02E5_uni02E7_uni02E8.ccmp
+Encoding: 5466 -1 5466
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 900 900 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E8
+EndChar
+
+StartChar: uni02E5_uni02E7_uni02E9.ccmp
+Encoding: 5467 -1 5467
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 900 900 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E9
+EndChar
+
+StartChar: uni02E5_uni02E8_uni02E5.ccmp
+Encoding: 5468 -1 5468
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E5
+EndChar
+
+StartChar: uni02E5_uni02E8_uni02E6.ccmp
+Encoding: 5469 -1 5469
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E6
+EndChar
+
+StartChar: uni02E5_uni02E8_uni02E7.ccmp
+Encoding: 5470 -1 5470
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E7
+EndChar
+
+StartChar: uni02E5_uni02E8_uni02E8.ccmp
+Encoding: 5471 -1 5471
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E8
+EndChar
+
+StartChar: uni02E5_uni02E8_uni02E9.ccmp
+Encoding: 5472 -1 5472
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 900 550 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E9
+EndChar
+
+StartChar: uni02E5_uni02E9_uni02E5.ccmp
+Encoding: 5473 -1 5473
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E5
+EndChar
+
+StartChar: uni02E5_uni02E9_uni02E6.ccmp
+Encoding: 5474 -1 5474
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E6
+EndChar
+
+StartChar: uni02E5_uni02E9_uni02E7.ccmp
+Encoding: 5475 -1 5475
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E7
+EndChar
+
+StartChar: uni02E5_uni02E9_uni02E8.ccmp
+Encoding: 5476 -1 5476
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 900 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 1000 350 l 1
+ 900 250 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E8
+EndChar
+
+StartChar: uni02E5_uni02E9_uni02E9.ccmp
+Encoding: 5477 -1 5477
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E9
+EndChar
+
+StartChar: uni02E6_uni02E5_uni02E5.ccmp
+Encoding: 5478 -1 5478
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E5
+EndChar
+
+StartChar: uni02E6_uni02E5_uni02E6.ccmp
+Encoding: 5479 -1 5479
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1350 l 1
+ 1000 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 900 1050 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E6
+EndChar
+
+StartChar: uni02E6_uni02E5_uni02E7.ccmp
+Encoding: 5480 -1 5480
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E7
+EndChar
+
+StartChar: uni02E6_uni02E5_uni02E8.ccmp
+Encoding: 5481 -1 5481
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E8
+EndChar
+
+StartChar: uni02E6_uni02E5_uni02E9.ccmp
+Encoding: 5482 -1 5482
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E9
+EndChar
+
+StartChar: uni02E6_uni02E6_uni02E5.ccmp
+Encoding: 5483 -1 5483
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1250 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E5
+EndChar
+
+StartChar: uni02E6_uni02E6_uni02E7.ccmp
+Encoding: 5484 -1 5484
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1250 l 1
+ 900 1250 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E7
+EndChar
+
+StartChar: uni02E6_uni02E6_uni02E8.ccmp
+Encoding: 5485 -1 5485
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1250 l 1
+ 900 1250 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E8
+EndChar
+
+StartChar: uni02E6_uni02E6_uni02E9.ccmp
+Encoding: 5486 -1 5486
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1250 l 1
+ 900 1250 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E9
+EndChar
+
+StartChar: uni02E6_uni02E7_uni02E5.ccmp
+Encoding: 5487 -1 5487
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E5
+EndChar
+
+StartChar: uni02E6_uni02E7_uni02E6.ccmp
+Encoding: 5488 -1 5488
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E6
+EndChar
+
+StartChar: uni02E6_uni02E7_uni02E7.ccmp
+Encoding: 5489 -1 5489
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E7
+EndChar
+
+StartChar: uni02E6_uni02E7_uni02E8.ccmp
+Encoding: 5490 -1 5490
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 900 900 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E8
+EndChar
+
+StartChar: uni02E6_uni02E7_uni02E9.ccmp
+Encoding: 5491 -1 5491
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 900 900 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E9
+EndChar
+
+StartChar: uni02E6_uni02E8_uni02E5.ccmp
+Encoding: 5492 -1 5492
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E5
+EndChar
+
+StartChar: uni02E6_uni02E8_uni02E6.ccmp
+Encoding: 5493 -1 5493
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E6
+EndChar
+
+StartChar: uni02E6_uni02E8_uni02E7.ccmp
+Encoding: 5494 -1 5494
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E7
+EndChar
+
+StartChar: uni02E6_uni02E8_uni02E8.ccmp
+Encoding: 5495 -1 5495
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E8
+EndChar
+
+StartChar: uni02E6_uni02E8_uni02E9.ccmp
+Encoding: 5496 -1 5496
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 900 550 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E9
+EndChar
+
+StartChar: uni02E6_uni02E9_uni02E5.ccmp
+Encoding: 5497 -1 5497
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E5
+EndChar
+
+StartChar: uni02E6_uni02E9_uni02E6.ccmp
+Encoding: 5498 -1 5498
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E6
+EndChar
+
+StartChar: uni02E6_uni02E9_uni02E7.ccmp
+Encoding: 5499 -1 5499
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E7
+EndChar
+
+StartChar: uni02E6_uni02E9_uni02E8.ccmp
+Encoding: 5500 -1 5500
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 900 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 1000 350 l 1
+ 900 250 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E8
+EndChar
+
+StartChar: uni02E6_uni02E9_uni02E9.ccmp
+Encoding: 5501 -1 5501
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E9
+EndChar
+
+StartChar: uni02E7_uni02E5_uni02E5.ccmp
+Encoding: 5502 -1 5502
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E5
+EndChar
+
+StartChar: uni02E7_uni02E5_uni02E6.ccmp
+Encoding: 5503 -1 5503
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1350 l 1
+ 1000 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 900 1050 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E6
+EndChar
+
+StartChar: uni02E7_uni02E5_uni02E7.ccmp
+Encoding: 5504 -1 5504
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E7
+EndChar
+
+StartChar: uni02E7_uni02E5_uni02E8.ccmp
+Encoding: 5505 -1 5505
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E8
+EndChar
+
+StartChar: uni02E7_uni02E5_uni02E9.ccmp
+Encoding: 5506 -1 5506
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E9
+EndChar
+
+StartChar: uni02E7_uni02E6_uni02E5.ccmp
+Encoding: 5507 -1 5507
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E5
+EndChar
+
+StartChar: uni02E7_uni02E6_uni02E6.ccmp
+Encoding: 5508 -1 5508
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E6
+EndChar
+
+StartChar: uni02E7_uni02E6_uni02E7.ccmp
+Encoding: 5509 -1 5509
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E7
+EndChar
+
+StartChar: uni02E7_uni02E6_uni02E8.ccmp
+Encoding: 5510 -1 5510
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E8
+EndChar
+
+StartChar: uni02E7_uni02E6_uni02E9.ccmp
+Encoding: 5511 -1 5511
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E9
+EndChar
+
+StartChar: uni02E7_uni02E7_uni02E5.ccmp
+Encoding: 5512 -1 5512
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E5
+EndChar
+
+StartChar: uni02E7_uni02E7_uni02E6.ccmp
+Encoding: 5513 -1 5513
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E6
+EndChar
+
+StartChar: uni02E7_uni02E7_uni02E8.ccmp
+Encoding: 5514 -1 5514
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 900 900 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E8
+EndChar
+
+StartChar: uni02E7_uni02E7_uni02E9.ccmp
+Encoding: 5515 -1 5515
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 900 l 1
+ 900 900 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E9
+EndChar
+
+StartChar: uni02E7_uni02E8_uni02E5.ccmp
+Encoding: 5516 -1 5516
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E5
+EndChar
+
+StartChar: uni02E7_uni02E8_uni02E6.ccmp
+Encoding: 5517 -1 5517
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E6
+EndChar
+
+StartChar: uni02E7_uni02E8_uni02E7.ccmp
+Encoding: 5518 -1 5518
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E7
+EndChar
+
+StartChar: uni02E7_uni02E8_uni02E8.ccmp
+Encoding: 5519 -1 5519
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E8
+EndChar
+
+StartChar: uni02E7_uni02E8_uni02E9.ccmp
+Encoding: 5520 -1 5520
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 900 550 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E9
+EndChar
+
+StartChar: uni02E7_uni02E9_uni02E5.ccmp
+Encoding: 5521 -1 5521
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E5
+EndChar
+
+StartChar: uni02E7_uni02E9_uni02E6.ccmp
+Encoding: 5522 -1 5522
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E6
+EndChar
+
+StartChar: uni02E7_uni02E9_uni02E7.ccmp
+Encoding: 5523 -1 5523
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E7
+EndChar
+
+StartChar: uni02E7_uni02E9_uni02E8.ccmp
+Encoding: 5524 -1 5524
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 900 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 1000 350 l 1
+ 900 250 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E8
+EndChar
+
+StartChar: uni02E7_uni02E9_uni02E9.ccmp
+Encoding: 5525 -1 5525
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E9
+EndChar
+
+StartChar: uni02E8_uni02E5_uni02E5.ccmp
+Encoding: 5526 -1 5526
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E5
+EndChar
+
+StartChar: uni02E8_uni02E5_uni02E6.ccmp
+Encoding: 5527 -1 5527
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1350 l 1
+ 1000 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 900 1050 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E6
+EndChar
+
+StartChar: uni02E8_uni02E5_uni02E7.ccmp
+Encoding: 5528 -1 5528
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E7
+EndChar
+
+StartChar: uni02E8_uni02E5_uni02E8.ccmp
+Encoding: 5529 -1 5529
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E8
+EndChar
+
+StartChar: uni02E8_uni02E5_uni02E9.ccmp
+Encoding: 5530 -1 5530
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E9
+EndChar
+
+StartChar: uni02E8_uni02E6_uni02E5.ccmp
+Encoding: 5531 -1 5531
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E5
+EndChar
+
+StartChar: uni02E8_uni02E6_uni02E6.ccmp
+Encoding: 5532 -1 5532
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E6
+EndChar
+
+StartChar: uni02E8_uni02E6_uni02E7.ccmp
+Encoding: 5533 -1 5533
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E7
+EndChar
+
+StartChar: uni02E8_uni02E6_uni02E8.ccmp
+Encoding: 5534 -1 5534
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E8
+EndChar
+
+StartChar: uni02E8_uni02E6_uni02E9.ccmp
+Encoding: 5535 -1 5535
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E9
+EndChar
+
+StartChar: uni02E8_uni02E7_uni02E5.ccmp
+Encoding: 5536 -1 5536
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E5
+EndChar
+
+StartChar: uni02E8_uni02E7_uni02E6.ccmp
+Encoding: 5537 -1 5537
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E6
+EndChar
+
+StartChar: uni02E8_uni02E7_uni02E7.ccmp
+Encoding: 5538 -1 5538
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E7
+EndChar
+
+StartChar: uni02E8_uni02E7_uni02E8.ccmp
+Encoding: 5539 -1 5539
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 900 900 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E8
+EndChar
+
+StartChar: uni02E8_uni02E7_uni02E9.ccmp
+Encoding: 5540 -1 5540
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 900 900 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E9
+EndChar
+
+StartChar: uni02E8_uni02E8_uni02E5.ccmp
+Encoding: 5541 -1 5541
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 550 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E5
+EndChar
+
+StartChar: uni02E8_uni02E8_uni02E6.ccmp
+Encoding: 5542 -1 5542
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 550 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E6
+EndChar
+
+StartChar: uni02E8_uni02E8_uni02E7.ccmp
+Encoding: 5543 -1 5543
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 550 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E7
+EndChar
+
+StartChar: uni02E8_uni02E8_uni02E9.ccmp
+Encoding: 5544 -1 5544
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 550 l 1
+ 900 550 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E9
+EndChar
+
+StartChar: uni02E8_uni02E9_uni02E5.ccmp
+Encoding: 5545 -1 5545
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 550 l 1
+ 300 550 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E5
+EndChar
+
+StartChar: uni02E8_uni02E9_uni02E6.ccmp
+Encoding: 5546 -1 5546
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 550 l 1
+ 300 550 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E6
+EndChar
+
+StartChar: uni02E8_uni02E9_uni02E7.ccmp
+Encoding: 5547 -1 5547
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 550 l 1
+ 300 550 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E7
+EndChar
+
+StartChar: uni02E8_uni02E9_uni02E8.ccmp
+Encoding: 5548 -1 5548
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 550 l 1
+ 300 550 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 900 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 1000 350 l 1
+ 900 250 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E8
+EndChar
+
+StartChar: uni02E8_uni02E9_uni02E9.ccmp
+Encoding: 5549 -1 5549
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 550 l 1
+ 300 550 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E9
+EndChar
+
+StartChar: uni02E9_uni02E5_uni02E5.ccmp
+Encoding: 5550 -1 5550
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E5
+EndChar
+
+StartChar: uni02E9_uni02E5_uni02E6.ccmp
+Encoding: 5551 -1 5551
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1350 l 1
+ 1000 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 900 1050 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E6
+EndChar
+
+StartChar: uni02E9_uni02E5_uni02E7.ccmp
+Encoding: 5552 -1 5552
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E7
+EndChar
+
+StartChar: uni02E9_uni02E5_uni02E8.ccmp
+Encoding: 5553 -1 5553
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E8
+EndChar
+
+StartChar: uni02E9_uni02E5_uni02E9.ccmp
+Encoding: 5554 -1 5554
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E9
+EndChar
+
+StartChar: uni02E9_uni02E6_uni02E5.ccmp
+Encoding: 5555 -1 5555
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 700 1250 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E5
+EndChar
+
+StartChar: uni02E9_uni02E6_uni02E6.ccmp
+Encoding: 5556 -1 5556
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E6
+EndChar
+
+StartChar: uni02E9_uni02E6_uni02E7.ccmp
+Encoding: 5557 -1 5557
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 1000 l 1
+ 1000 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 900 700 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E7
+EndChar
+
+StartChar: uni02E9_uni02E6_uni02E8.ccmp
+Encoding: 5558 -1 5558
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E8
+EndChar
+
+StartChar: uni02E9_uni02E6_uni02E9.ccmp
+Encoding: 5559 -1 5559
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 900 1250 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E9
+EndChar
+
+StartChar: uni02E9_uni02E7_uni02E5.ccmp
+Encoding: 5560 -1 5560
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 700 900 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E5
+EndChar
+
+StartChar: uni02E9_uni02E7_uni02E6.ccmp
+Encoding: 5561 -1 5561
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 700 900 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E6
+EndChar
+
+StartChar: uni02E9_uni02E7_uni02E7.ccmp
+Encoding: 5562 -1 5562
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E7
+EndChar
+
+StartChar: uni02E9_uni02E7_uni02E8.ccmp
+Encoding: 5563 -1 5563
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 900 900 l 1
+ 900 650 l 1
+ 1000 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 900 350 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E8
+EndChar
+
+StartChar: uni02E9_uni02E7_uni02E9.ccmp
+Encoding: 5564 -1 5564
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 900 900 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E9
+EndChar
+
+StartChar: uni02E9_uni02E8_uni02E5.ccmp
+Encoding: 5565 -1 5565
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 300 550 l 1
+ 700 550 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 350 l 1
+ 400 350 l 1
+ 300 250 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E5
+EndChar
+
+StartChar: uni02E9_uni02E8_uni02E6.ccmp
+Encoding: 5566 -1 5566
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 300 550 l 1
+ 700 550 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 350 l 1
+ 400 350 l 1
+ 300 250 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E6
+EndChar
+
+StartChar: uni02E9_uni02E8_uni02E7.ccmp
+Encoding: 5567 -1 5567
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 300 550 l 1
+ 700 550 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 350 l 1
+ 400 350 l 1
+ 300 250 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E7
+EndChar
+
+StartChar: uni02E9_uni02E8_uni02E8.ccmp
+Encoding: 5568 -1 5568
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 300 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 400 350 l 1
+ 300 250 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E8
+EndChar
+
+StartChar: uni02E9_uni02E8_uni02E9.ccmp
+Encoding: 5569 -1 5569
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 300 550 l 1
+ 900 550 l 1
+ 900 300 l 1
+ 1000 200 l 1
+ 1300 200 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 900 0 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 400 350 l 1
+ 300 250 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E9
+EndChar
+
+StartChar: uni02E9_uni02E9_uni02E5.ccmp
+Encoding: 5570 -1 5570
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 200 l 1
+ 700 1400 l 1
+ 900 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1400 l 1
+ 1000 1400 l 1
+ 900 1300 l 1
+ 900 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E5
+EndChar
+
+StartChar: uni02E9_uni02E9_uni02E6.ccmp
+Encoding: 5571 -1 5571
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 200 l 1
+ 700 1050 l 1
+ 900 1250 l 1
+ 1300 1250 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 1050 l 1
+ 1000 1050 l 1
+ 900 950 l 1
+ 900 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E6
+EndChar
+
+StartChar: uni02E9_uni02E9_uni02E7.ccmp
+Encoding: 5572 -1 5572
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 200 l 1
+ 700 700 l 1
+ 900 900 l 1
+ 1300 900 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 700 l 1
+ 1000 700 l 1
+ 900 600 l 1
+ 900 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E7
+EndChar
+
+StartChar: uni02E9_uni02E9_uni02E8.ccmp
+Encoding: 5573 -1 5573
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 200 l 1
+ 700 200 l 1
+ 700 350 l 1
+ 900 550 l 1
+ 1300 550 l 1
+ 1300 1600 l 1
+ 1500 1600 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1300 350 l 1
+ 1000 350 l 1
+ 900 250 l 1
+ 900 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E8
+EndChar
+
+StartChar: vni02E5_uni02E6.ccmp
+Encoding: 5574 -1 5574
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1250 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1350 l 1
+ 400 1250 l 1
+ 700 1250 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1050 l 1
+ 300 1050 l 1
+ 100 1250 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6
+EndChar
+
+StartChar: vni02E5_uni02E7.ccmp
+Encoding: 5575 -1 5575
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 700 900 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7
+EndChar
+
+StartChar: vni02E5_uni02E8.ccmp
+Encoding: 5576 -1 5576
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8
+EndChar
+
+StartChar: vni02E5_uni02E9.ccmp
+Encoding: 5577 -1 5577
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9
+EndChar
+
+StartChar: vni02E6_uni02E5.ccmp
+Encoding: 5578 -1 5578
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 1050 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 1050 l 1
+ 100 1050 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5
+EndChar
+
+StartChar: vni02E6_uni02E7.ccmp
+Encoding: 5579 -1 5579
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 900 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 1000 l 1
+ 400 900 l 1
+ 700 900 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 700 l 1
+ 300 700 l 1
+ 100 900 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7
+EndChar
+
+StartChar: vni02E6_uni02E8.ccmp
+Encoding: 5580 -1 5580
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8
+EndChar
+
+StartChar: vni02E6_uni02E9.ccmp
+Encoding: 5581 -1 5581
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 1250 l 1
+ 300 1250 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9
+EndChar
+
+StartChar: vni02E7_uni02E5.ccmp
+Encoding: 5582 -1 5582
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5
+EndChar
+
+StartChar: vni02E7_uni02E6.ccmp
+Encoding: 5583 -1 5583
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 700 1250 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 700 l 1
+ 100 700 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6
+EndChar
+
+StartChar: vni02E7_uni02E8.ccmp
+Encoding: 5584 -1 5584
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 550 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 650 l 1
+ 400 550 l 1
+ 700 550 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 350 l 1
+ 300 350 l 1
+ 100 550 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8
+EndChar
+
+StartChar: vni02E7_uni02E9.ccmp
+Encoding: 5585 -1 5585
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9
+EndChar
+
+StartChar: vni02E8_uni02E5.ccmp
+Encoding: 5586 -1 5586
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5
+EndChar
+
+StartChar: vni02E8_uni02E6.ccmp
+Encoding: 5587 -1 5587
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 700 1250 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6
+EndChar
+
+StartChar: vni02E8_uni02E7.ccmp
+Encoding: 5588 -1 5588
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 350 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 700 900 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 350 l 1
+ 100 350 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7
+EndChar
+
+StartChar: vni02E8_uni02E9.ccmp
+Encoding: 5589 -1 5589
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 200 m 1
+ 100 550 l 1
+ 300 550 l 1
+ 300 300 l 1
+ 400 200 l 1
+ 700 200 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 300 0 l 1
+ 100 200 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9
+EndChar
+
+StartChar: vni02E9_uni02E5.ccmp
+Encoding: 5590 -1 5590
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1400 l 1
+ 300 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1400 l 1
+ 400 1400 l 1
+ 300 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5
+EndChar
+
+StartChar: vni02E9_uni02E6.ccmp
+Encoding: 5591 -1 5591
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1050 l 1
+ 300 1250 l 1
+ 700 1250 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 1050 l 1
+ 400 1050 l 1
+ 300 950 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6
+EndChar
+
+StartChar: vni02E9_uni02E7.ccmp
+Encoding: 5592 -1 5592
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 300 900 l 1
+ 700 900 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 700 l 1
+ 400 700 l 1
+ 300 600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7
+EndChar
+
+StartChar: vni02E9_uni02E8.ccmp
+Encoding: 5593 -1 5593
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 350 l 1
+ 300 550 l 1
+ 700 550 l 1
+ 700 1600 l 1
+ 900 1600 l 1
+ 900 0 l 1
+ 700 0 l 1
+ 700 350 l 1
+ 400 350 l 1
+ 300 250 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8
 EndChar
 EndChars
 EndSplineFont
