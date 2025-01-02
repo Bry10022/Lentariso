@@ -2,6 +2,17 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.020 - Released 01/01/2025
+
+Additions
+- Added Claudian letters and a couple more symbols.
+- Added Tone letters and Tone contours.
+
+Changes
+- Widened the T in U+2122 to match the other mark symbols.
+
+-------------------------------------------------------------------------------
+
 Version 1.019 - Released 11/24/2024
 
 Additions
