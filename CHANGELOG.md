@@ -5,7 +5,7 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 Version 1.021 - Released 02/01/2025
 
 Additions
-- Added the Unicode 17 latin characters in Latin Extended-D and Geomantic figures, although they are not yet final.
+- Added the Unicode 17 characters in Latin Extended-D and Geomantic figures, although they are not yet final.
 
 Changes
 - Changed U+AB4B and U+AB4C in preperation of Unicode 17 errata.
