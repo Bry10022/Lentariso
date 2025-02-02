@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Regular
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.020
+Version: 1.021
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1735779215
+ModificationTime: 1738456806
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -162,7 +162,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 5408 16 12
+WinInfo: 5424 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -180,7 +180,7 @@ Grid
   Named: "Ascent"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 524288 -740994 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 5594 5594
+BeginChars: 5615 5615
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -3379,6 +3379,7 @@ SplineSet
  1500 400 l 1
  1300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: scaron
@@ -30552,6 +30553,7 @@ SplineSet
  900 -400 l 1
  700 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni251E
@@ -38093,6 +38095,7 @@ SplineSet
  800 -400 l 1
  0 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1FB1D
@@ -73395,6 +73398,7 @@ SplineSet
  900 0 l 1
  400 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni1D92
@@ -79200,59 +79204,55 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-100 800 m 1
+100 300 m 1
+ 100 700 l 1
+ 700 1000 l 1
+ 100 1000 l 1
  100 1200 l 1
- 400 1200 l 1
- 500 1100 l 1
- 700 1100 l 1
- 800 1200 l 1
  1100 1200 l 1
- 1100 0 l 1
- 900 0 l 1
- 900 1000 l 1
- 800 900 l 1
- 400 900 l 1
- 300 1000 l 1
- 300 800 l 1
- 100 800 l 1
+ 1100 1000 l 1
+ 300 600 l 1
+ 300 400 l 1
+ 500 200 l 1
+ 700 200 l 1
+ 900 400 l 1
+ 1100 400 l 1
+ 1100 300 l 1
+ 800 0 l 1
+ 400 0 l 1
+ 100 300 l 1
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniAB4C
 Encoding: 2690 43852 2690
-Width: 1700
+Width: 1200
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-100 800 m 1
+100 300 m 1
+ 100 700 l 1
+ 700 1000 l 1
+ 100 1000 l 1
  100 1200 l 1
- 400 1200 l 1
- 500 1100 l 1
- 700 1100 l 1
- 800 1200 l 1
  1100 1200 l 1
- 1100 600 l 1
- 1400 600 l 1
- 1600 400 l 1
- 1600 200 l 1
- 1400 0 l 1
- 1100 0 l 1
- 900 200 l 1
- 900 1000 l 1
- 800 900 l 1
- 400 900 l 1
- 300 1000 l 1
- 300 800 l 1
- 100 800 l 1
-1100 300 m 1
- 1200 200 l 1
- 1300 200 l 1
- 1400 300 l 1
- 1300 400 l 1
- 1200 400 l 1
+ 1100 1000 l 1
+ 700 800 l 1
+ 800 800 l 1
+ 1100 500 l 1
  1100 300 l 1
+ 800 0 l 1
+ 400 0 l 1
+ 100 300 l 1
+300 400 m 1
+ 500 200 l 1
+ 700 200 l 1
+ 900 400 l 1
+ 700 600 l 1
+ 300 600 l 1
+ 300 400 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -166810,6 +166810,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10501
@@ -166840,6 +166841,7 @@ SplineSet
  300 300 l 1
  300 200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10502
@@ -166866,6 +166868,7 @@ SplineSet
  300 -400 l 1
  100 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10503
@@ -166897,6 +166900,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10504
@@ -166916,6 +166920,7 @@ SplineSet
  1100 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10505
@@ -166940,6 +166945,7 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10506
@@ -166963,6 +166969,7 @@ SplineSet
  300 1000 l 1
  300 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10507
@@ -166984,6 +166991,7 @@ SplineSet
  1100 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10508
@@ -167011,6 +167019,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10509
@@ -167040,6 +167049,7 @@ SplineSet
  300 500 l 1
  300 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1050A
@@ -167074,6 +167084,7 @@ SplineSet
  500 500 l 1
  500 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1050B
@@ -167113,6 +167124,7 @@ SplineSet
  1100 800 l 1
  1100 200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1050C
@@ -167141,6 +167153,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1050D
@@ -167164,6 +167177,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1050E
@@ -167179,6 +167193,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1050F
@@ -167196,6 +167211,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10510
@@ -167218,6 +167234,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10511
@@ -167245,6 +167262,7 @@ SplineSet
  700 1400 l 1
  500 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10512
@@ -167264,6 +167282,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10513
@@ -167287,6 +167306,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10514
@@ -167309,6 +167329,7 @@ SplineSet
  600 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10515
@@ -167326,6 +167347,7 @@ SplineSet
  900 1000 l 1
  100 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10516
@@ -167354,6 +167376,7 @@ SplineSet
  300 800 l 1
  300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10517
@@ -167373,6 +167396,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10518
@@ -167398,6 +167422,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10519
@@ -167419,6 +167444,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1051A
@@ -167445,6 +167471,7 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1051B
@@ -167468,6 +167495,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1051C
@@ -167492,6 +167520,7 @@ SplineSet
  300 1000 l 1
  300 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1051D
@@ -167514,6 +167543,7 @@ SplineSet
  500 0 l 1
  100 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1051E
@@ -167547,6 +167577,7 @@ SplineSet
  300 1200 l 1
  300 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1051F
@@ -167581,6 +167612,7 @@ SplineSet
  400 400 l 1
  400 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10520
@@ -167602,6 +167634,7 @@ SplineSet
  300 -400 l 1
  100 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10521
@@ -167628,6 +167661,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10522
@@ -167667,6 +167701,7 @@ SplineSet
  500 450 l 1
  500 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10523
@@ -167694,6 +167729,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10524
@@ -167720,6 +167756,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10525
@@ -167741,6 +167778,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10526
@@ -167758,6 +167796,7 @@ SplineSet
  1100 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10527
@@ -167789,6 +167828,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10570
@@ -167826,6 +167866,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10571
@@ -167856,6 +167897,7 @@ SplineSet
  300 400 l 1
  100 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10572
@@ -167891,6 +167933,7 @@ SplineSet
  300 900 l 1
  300 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10573
@@ -167923,6 +167966,7 @@ SplineSet
  1000 500 l 1
  100 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10574
@@ -167962,6 +168006,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10575
@@ -167997,6 +168042,7 @@ SplineSet
  300 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10576
@@ -168024,6 +168070,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10577
@@ -168048,6 +168095,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10578
@@ -168076,6 +168124,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10579
@@ -168111,6 +168160,7 @@ SplineSet
  300 1300 l 1
  100 1500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1057A
@@ -168142,6 +168192,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1057C
@@ -168176,6 +168227,7 @@ SplineSet
  300 1200 l 1
  300 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1057D
@@ -168228,6 +168280,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1057E
@@ -168256,6 +168309,7 @@ SplineSet
  300 1000 l 1
  100 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1057F
@@ -168295,6 +168349,7 @@ SplineSet
  550 1750 l 1
  400 1900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10580
@@ -168332,6 +168387,7 @@ SplineSet
  300 1000 l 1
  100 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10581
@@ -168363,6 +168419,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10582
@@ -168390,6 +168447,7 @@ SplineSet
  300 1300 l 1
  100 1500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10583
@@ -168417,6 +168475,7 @@ SplineSet
  300 1300 l 1
  100 1500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10584
@@ -168451,6 +168510,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10585
@@ -168475,6 +168535,7 @@ SplineSet
  400 600 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10586
@@ -168499,6 +168560,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10587
@@ -168527,6 +168589,7 @@ SplineSet
  300 1200 l 1
  300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10588
@@ -168563,6 +168626,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10589
@@ -168601,6 +168665,7 @@ SplineSet
  1300 1300 l 1
  1100 1300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1058A
@@ -168630,6 +168695,7 @@ SplineSet
  300 1700 l 1
  100 1900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1058C
@@ -168659,6 +168725,7 @@ SplineSet
  300 1300 l 1
  100 1500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1058D
@@ -168693,6 +168760,7 @@ SplineSet
  1200 1800 l 1
  600 1800 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1058E
@@ -168732,6 +168800,7 @@ SplineSet
  300 800 l 1
  300 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1058F
@@ -168758,6 +168827,7 @@ SplineSet
  200 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10590
@@ -168785,6 +168855,7 @@ SplineSet
  300 1300 l 1
  100 1500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10591
@@ -168810,6 +168881,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10592
@@ -168834,6 +168906,7 @@ SplineSet
  100 -400 l 1
  100 -300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10594
@@ -168872,6 +168945,7 @@ SplineSet
  700 1700 l 1
  500 1900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10595
@@ -168917,6 +168991,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10597
@@ -168954,6 +169029,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10598
@@ -168983,6 +169059,7 @@ SplineSet
  300 500 l 1
  100 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10599
@@ -169017,6 +169094,7 @@ SplineSet
  300 900 l 1
  300 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1059A
@@ -169049,6 +169127,7 @@ SplineSet
  800 300 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1059B
@@ -169088,6 +169167,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1059C
@@ -169123,6 +169203,7 @@ SplineSet
  300 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1059D
@@ -169150,6 +169231,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1059E
@@ -169174,6 +169256,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1059F
@@ -169202,6 +169285,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A0
@@ -169237,6 +169321,7 @@ SplineSet
  300 900 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A1
@@ -169268,6 +169353,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A3
@@ -169302,6 +169388,7 @@ SplineSet
  300 1300 l 1
  300 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A4
@@ -169354,6 +169441,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A5
@@ -169379,6 +169467,7 @@ SplineSet
  500 1400 l 1
  300 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A6
@@ -169415,6 +169504,7 @@ SplineSet
  500 1400 l 1
  300 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A7
@@ -169451,6 +169541,7 @@ SplineSet
  300 1100 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A8
@@ -169482,6 +169573,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105A9
@@ -169509,6 +169601,7 @@ SplineSet
  300 900 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105AA
@@ -169536,6 +169629,7 @@ SplineSet
  300 900 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105AB
@@ -169570,6 +169664,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105AC
@@ -169592,6 +169687,7 @@ SplineSet
  700 400 l 1
  100 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105AD
@@ -169616,6 +169712,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105AE
@@ -169644,6 +169741,7 @@ SplineSet
  300 800 l 1
  300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105AF
@@ -169680,6 +169778,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B0
@@ -169718,6 +169817,7 @@ SplineSet
  1100 900 l 1
  900 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B1
@@ -169744,6 +169844,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B3
@@ -169773,6 +169874,7 @@ SplineSet
  300 900 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B4
@@ -169807,6 +169909,7 @@ SplineSet
  1100 1400 l 1
  500 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B5
@@ -169843,6 +169946,7 @@ SplineSet
  300 700 l 1
  300 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B6
@@ -169869,6 +169973,7 @@ SplineSet
  200 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B7
@@ -169896,6 +170001,7 @@ SplineSet
  300 900 l 1
  100 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B8
@@ -169921,6 +170027,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105B9
@@ -169945,6 +170052,7 @@ SplineSet
  100 -400 l 1
  100 -300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105BB
@@ -169983,6 +170091,7 @@ SplineSet
  600 1300 l 1
  400 1500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u105BC
@@ -170028,6 +170137,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC0
@@ -170068,6 +170178,7 @@ SplineSet
  600 400 l 1
  450 250 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC1
@@ -170103,6 +170214,7 @@ SplineSet
  800 400 l 1
  600 200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC2
@@ -170132,6 +170244,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC3
@@ -170167,6 +170280,7 @@ SplineSet
  600 500 l 1
  400 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC4
@@ -170201,6 +170315,7 @@ SplineSet
  300 1400 l 1
  300 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC5
@@ -170228,6 +170343,7 @@ SplineSet
  300 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC6
@@ -170255,6 +170371,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC7
@@ -170285,6 +170402,7 @@ SplineSet
  1300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC8
@@ -170321,6 +170439,7 @@ SplineSet
  400 400 l 1
  300 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AC9
@@ -170341,6 +170460,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ACA
@@ -170379,6 +170499,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ACB
@@ -170412,6 +170533,7 @@ SplineSet
  300 1200 l 1
  300 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ACC
@@ -170450,6 +170572,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ACD
@@ -170473,6 +170596,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ACE
@@ -170490,6 +170614,7 @@ SplineSet
  1300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ACF
@@ -170532,6 +170657,7 @@ SplineSet
  500 1400 l 1
  450 1350 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD0
@@ -170566,6 +170692,7 @@ SplineSet
  300 1200 l 1
  300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD1
@@ -170589,6 +170716,7 @@ SplineSet
  1300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD2
@@ -170617,6 +170745,7 @@ SplineSet
  300 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD3
@@ -170640,6 +170769,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD4
@@ -170678,6 +170808,7 @@ SplineSet
  1500 1300 l 1
  1500 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD5
@@ -170712,6 +170843,7 @@ SplineSet
  400 600 l 1
  400 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD6
@@ -170749,6 +170881,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD7
@@ -170771,6 +170904,7 @@ SplineSet
  300 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD8
@@ -170798,6 +170932,7 @@ SplineSet
  300 1000 l 1
  300 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AD9
@@ -170825,6 +170960,7 @@ SplineSet
  300 500 l 1
  300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ADA
@@ -170855,6 +170991,7 @@ SplineSet
  300 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ADB
@@ -170878,6 +171015,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ADC
@@ -170914,6 +171052,7 @@ SplineSet
  900 1300 l 1
  900 1000 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ADD
@@ -170933,6 +171072,7 @@ SplineSet
  600 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ADE
@@ -170969,6 +171109,7 @@ SplineSet
  1300 1300 l 1
  1300 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11ADF
@@ -170991,6 +171132,7 @@ SplineSet
  600 0 l 1
  100 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE0
@@ -171033,6 +171175,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE1
@@ -171057,6 +171200,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE2
@@ -171083,6 +171227,7 @@ SplineSet
  300 1400 l 1
  300 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE3
@@ -171126,6 +171271,7 @@ SplineSet
  300 400 l 1
  300 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE4
@@ -171154,6 +171300,7 @@ SplineSet
  300 1200 l 1
  300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE5
@@ -171169,6 +171316,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE6
@@ -171189,6 +171337,7 @@ SplineSet
  700 700 l 1
  500 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE7
@@ -171214,6 +171363,7 @@ SplineSet
  700 1200 l 1
  500 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE8
@@ -171234,6 +171384,7 @@ SplineSet
  700 0 l 1
  500 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AE9
@@ -171259,6 +171410,7 @@ SplineSet
  1100 700 l 1
  900 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AEA
@@ -171289,6 +171441,7 @@ SplineSet
  1100 1200 l 1
  900 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AEB
@@ -171308,6 +171461,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AEC
@@ -171332,6 +171486,7 @@ SplineSet
  700 500 l 1
  500 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AED
@@ -171360,6 +171515,7 @@ SplineSet
  1100 0 l 1
  900 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AEE
@@ -171393,6 +171549,7 @@ SplineSet
  1500 500 l 1
  1300 500 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AEF
@@ -171408,6 +171565,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF0
@@ -171428,6 +171586,7 @@ SplineSet
  300 1200 l 1
  100 1200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF1
@@ -171455,6 +171614,7 @@ SplineSet
  1100 600 l 1
  100 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF2
@@ -171487,6 +171647,7 @@ SplineSet
  500 200 l 1
  300 200 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF3
@@ -171506,6 +171667,7 @@ SplineSet
  400 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF4
@@ -171530,6 +171692,7 @@ SplineSet
  700 900 l 1
  500 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF5
@@ -171559,6 +171722,7 @@ SplineSet
  700 1400 l 1
  500 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF6
@@ -171587,6 +171751,7 @@ SplineSet
  1200 0 l 1
  900 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF7
@@ -171620,6 +171785,7 @@ SplineSet
  1500 900 l 1
  1300 900 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u11AF8
@@ -171658,6 +171824,7 @@ SplineSet
  1500 1400 l 1
  1300 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2132
@@ -171680,6 +171847,7 @@ SplineSet
  1300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni214E
@@ -171701,6 +171869,7 @@ SplineSet
  1100 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2183
@@ -171731,6 +171900,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2184
@@ -171760,6 +171930,7 @@ SplineSet
  400 0 l 1
  100 300 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2109
@@ -171799,6 +171970,7 @@ SplineSet
  300 1300 l 1
  300 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2103
@@ -171846,6 +172018,7 @@ SplineSet
  300 1300 l 1
  300 1100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni212A
@@ -171871,6 +172044,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni212B
@@ -171911,6 +172085,7 @@ SplineSet
  600 1900 l 1
  600 1700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2125
@@ -171949,6 +172124,7 @@ SplineSet
  100 -100 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2120
@@ -172002,6 +172178,7 @@ SplineSet
  1500 400 l 1
  1300 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1F16A
@@ -172047,6 +172224,7 @@ SplineSet
  1800 400 l 1
  1500 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1F16B
@@ -172091,6 +172269,7 @@ SplineSet
  300 400 l 1
  100 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u1F16C
@@ -172138,6 +172317,7 @@ SplineSet
  300 400 l 1
  100 400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni02E5
@@ -172155,6 +172335,7 @@ SplineSet
  700 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni02E6
@@ -172174,6 +172355,7 @@ SplineSet
  700 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni02E7
@@ -172193,6 +172375,7 @@ SplineSet
  700 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni02E8
@@ -172212,6 +172395,7 @@ SplineSet
  700 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni02E9
@@ -172229,6 +172413,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni02E5_uni02E5_uni02E6.ccmp
@@ -172254,6 +172439,7 @@ SplineSet
  700 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E6
 EndChar
 
@@ -172280,6 +172466,7 @@ SplineSet
  700 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E7
 EndChar
 
@@ -172306,6 +172493,7 @@ SplineSet
  700 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E8
 EndChar
 
@@ -172330,6 +172518,7 @@ SplineSet
  700 1400 l 1
  100 1400 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E5 uni02E9
 EndChar
 
@@ -172358,6 +172547,7 @@ SplineSet
  300 1050 l 1
  100 1250 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E5
 EndChar
 
@@ -172382,6 +172572,7 @@ SplineSet
  300 1050 l 1
  100 1250 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E6
 EndChar
 
@@ -172412,6 +172603,7 @@ SplineSet
  300 1050 l 1
  100 1250 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E7
 EndChar
 
@@ -172442,6 +172634,7 @@ SplineSet
  300 1050 l 1
  100 1250 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E8
 EndChar
 
@@ -172470,6 +172663,7 @@ SplineSet
  300 1050 l 1
  100 1250 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6 uni02E9
 EndChar
 
@@ -172498,6 +172692,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E5
 EndChar
 
@@ -172528,6 +172723,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E6
 EndChar
 
@@ -172552,6 +172748,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E7
 EndChar
 
@@ -172582,6 +172779,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E8
 EndChar
 
@@ -172610,6 +172808,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7 uni02E9
 EndChar
 
@@ -172638,6 +172837,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E5
 EndChar
 
@@ -172668,6 +172868,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E6
 EndChar
 
@@ -172698,6 +172899,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E7
 EndChar
 
@@ -172722,6 +172924,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E8
 EndChar
 
@@ -172750,6 +172953,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8 uni02E9
 EndChar
 
@@ -172778,6 +172982,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E5
 EndChar
 
@@ -172808,6 +173013,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E6
 EndChar
 
@@ -172838,6 +173044,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E7
 EndChar
 
@@ -172868,6 +173075,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E8
 EndChar
 
@@ -172890,6 +173098,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9 uni02E9
 EndChar
 
@@ -172912,6 +173121,7 @@ SplineSet
  300 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E5
 EndChar
 
@@ -172942,6 +173152,7 @@ SplineSet
  300 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E6
 EndChar
 
@@ -172972,6 +173183,7 @@ SplineSet
  300 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E7
 EndChar
 
@@ -173002,6 +173214,7 @@ SplineSet
  300 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E8
 EndChar
 
@@ -173030,6 +173243,7 @@ SplineSet
  300 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5 uni02E9
 EndChar
 
@@ -173054,6 +173268,7 @@ SplineSet
  900 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E5
 EndChar
 
@@ -173080,6 +173295,7 @@ SplineSet
  700 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E7
 EndChar
 
@@ -173106,6 +173322,7 @@ SplineSet
  700 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E8
 EndChar
 
@@ -173130,6 +173347,7 @@ SplineSet
  700 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E6 uni02E9
 EndChar
 
@@ -173158,6 +173376,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E5
 EndChar
 
@@ -173188,6 +173407,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E6
 EndChar
 
@@ -173212,6 +173432,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E7
 EndChar
 
@@ -173242,6 +173463,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E8
 EndChar
 
@@ -173270,6 +173492,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7 uni02E9
 EndChar
 
@@ -173298,6 +173521,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E5
 EndChar
 
@@ -173328,6 +173552,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E6
 EndChar
 
@@ -173358,6 +173583,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E7
 EndChar
 
@@ -173382,6 +173608,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E8
 EndChar
 
@@ -173410,6 +173637,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8 uni02E9
 EndChar
 
@@ -173438,6 +173666,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E5
 EndChar
 
@@ -173468,6 +173697,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E6
 EndChar
 
@@ -173498,6 +173728,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E7
 EndChar
 
@@ -173528,6 +173759,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E8
 EndChar
 
@@ -173550,6 +173782,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9 uni02E9
 EndChar
 
@@ -173572,6 +173805,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E5
 EndChar
 
@@ -173602,6 +173836,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E6
 EndChar
 
@@ -173632,6 +173867,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E7
 EndChar
 
@@ -173662,6 +173898,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E8
 EndChar
 
@@ -173690,6 +173927,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5 uni02E9
 EndChar
 
@@ -173718,6 +173956,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E5
 EndChar
 
@@ -173742,6 +173981,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E6
 EndChar
 
@@ -173772,6 +174012,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E7
 EndChar
 
@@ -173802,6 +174043,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E8
 EndChar
 
@@ -173830,6 +174072,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6 uni02E9
 EndChar
 
@@ -173854,6 +174097,7 @@ SplineSet
  900 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E5
 EndChar
 
@@ -173880,6 +174124,7 @@ SplineSet
  900 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E6
 EndChar
 
@@ -173906,6 +174151,7 @@ SplineSet
  700 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E8
 EndChar
 
@@ -173930,6 +174176,7 @@ SplineSet
  700 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E7 uni02E9
 EndChar
 
@@ -173958,6 +174205,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E5
 EndChar
 
@@ -173988,6 +174236,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E6
 EndChar
 
@@ -174018,6 +174267,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E7
 EndChar
 
@@ -174042,6 +174292,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E8
 EndChar
 
@@ -174070,6 +174321,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8 uni02E9
 EndChar
 
@@ -174098,6 +174350,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E5
 EndChar
 
@@ -174128,6 +174381,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E6
 EndChar
 
@@ -174158,6 +174412,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E7
 EndChar
 
@@ -174188,6 +174443,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E8
 EndChar
 
@@ -174210,6 +174466,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9 uni02E9
 EndChar
 
@@ -174232,6 +174489,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E5
 EndChar
 
@@ -174262,6 +174520,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E6
 EndChar
 
@@ -174292,6 +174551,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E7
 EndChar
 
@@ -174322,6 +174582,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E8
 EndChar
 
@@ -174350,6 +174611,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5 uni02E9
 EndChar
 
@@ -174378,6 +174640,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E5
 EndChar
 
@@ -174402,6 +174665,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E6
 EndChar
 
@@ -174432,6 +174696,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E7
 EndChar
 
@@ -174462,6 +174727,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E8
 EndChar
 
@@ -174490,6 +174756,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6 uni02E9
 EndChar
 
@@ -174518,6 +174785,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E5
 EndChar
 
@@ -174548,6 +174816,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E6
 EndChar
 
@@ -174572,6 +174841,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E7
 EndChar
 
@@ -174602,6 +174872,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E8
 EndChar
 
@@ -174630,6 +174901,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7 uni02E9
 EndChar
 
@@ -174654,6 +174926,7 @@ SplineSet
  900 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E5
 EndChar
 
@@ -174680,6 +174953,7 @@ SplineSet
  900 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E6
 EndChar
 
@@ -174706,6 +174980,7 @@ SplineSet
  900 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E7
 EndChar
 
@@ -174730,6 +175005,7 @@ SplineSet
  700 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E8 uni02E9
 EndChar
 
@@ -174758,6 +175034,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E5
 EndChar
 
@@ -174788,6 +175065,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E6
 EndChar
 
@@ -174818,6 +175096,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E7
 EndChar
 
@@ -174848,6 +175127,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E8
 EndChar
 
@@ -174870,6 +175150,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9 uni02E9
 EndChar
 
@@ -174892,6 +175173,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E5
 EndChar
 
@@ -174922,6 +175204,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E6
 EndChar
 
@@ -174952,6 +175235,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E7
 EndChar
 
@@ -174982,6 +175266,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E8
 EndChar
 
@@ -175010,6 +175295,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5 uni02E9
 EndChar
 
@@ -175038,6 +175324,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E5
 EndChar
 
@@ -175062,6 +175349,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E6
 EndChar
 
@@ -175092,6 +175380,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E7
 EndChar
 
@@ -175122,6 +175411,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E8
 EndChar
 
@@ -175150,6 +175440,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6 uni02E9
 EndChar
 
@@ -175178,6 +175469,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E5
 EndChar
 
@@ -175208,6 +175500,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E6
 EndChar
 
@@ -175232,6 +175525,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E7
 EndChar
 
@@ -175262,6 +175556,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E8
 EndChar
 
@@ -175290,6 +175585,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7 uni02E9
 EndChar
 
@@ -175318,6 +175614,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E5
 EndChar
 
@@ -175348,6 +175645,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E6
 EndChar
 
@@ -175378,6 +175676,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E7
 EndChar
 
@@ -175402,6 +175701,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E8
 EndChar
 
@@ -175430,6 +175730,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8 uni02E9
 EndChar
 
@@ -175454,6 +175755,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E5
 EndChar
 
@@ -175480,6 +175782,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E6
 EndChar
 
@@ -175506,6 +175809,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E7
 EndChar
 
@@ -175532,6 +175836,7 @@ SplineSet
  900 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E9 uni02E8
 EndChar
 
@@ -175556,6 +175861,7 @@ SplineSet
  300 1050 l 1
  100 1250 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E6
 EndChar
 
@@ -175580,6 +175886,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E7
 EndChar
 
@@ -175604,6 +175911,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E8
 EndChar
 
@@ -175626,6 +175934,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E5 uni02E9
 EndChar
 
@@ -175648,6 +175957,7 @@ SplineSet
  300 1050 l 1
  100 1050 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E5
 EndChar
 
@@ -175672,6 +175982,7 @@ SplineSet
  300 700 l 1
  100 900 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E7
 EndChar
 
@@ -175696,6 +176007,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E8
 EndChar
 
@@ -175718,6 +176030,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E6 uni02E9
 EndChar
 
@@ -175740,6 +176053,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E5
 EndChar
 
@@ -175764,6 +176078,7 @@ SplineSet
  300 700 l 1
  100 700 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E6
 EndChar
 
@@ -175788,6 +176103,7 @@ SplineSet
  300 350 l 1
  100 550 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E8
 EndChar
 
@@ -175810,6 +176126,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E7 uni02E9
 EndChar
 
@@ -175832,6 +176149,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E5
 EndChar
 
@@ -175856,6 +176174,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E6
 EndChar
 
@@ -175880,6 +176199,7 @@ SplineSet
  300 350 l 1
  100 350 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E7
 EndChar
 
@@ -175902,6 +176222,7 @@ SplineSet
  300 0 l 1
  100 200 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E8 uni02E9
 EndChar
 
@@ -175924,6 +176245,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E5
 EndChar
 
@@ -175948,6 +176270,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E6
 EndChar
 
@@ -175972,6 +176295,7 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E7
 EndChar
 
@@ -175996,7 +176320,834 @@ SplineSet
  300 0 l 1
  100 0 l 1
 EndSplineSet
+Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 16-1" uni02E9 uni02E8
+EndChar
+
+StartChar: uniA7CE
+Encoding: 5594 42958 5594
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 100 1300 l 1
+ 400 1600 l 1
+ 1000 1600 l 1
+ 1300 1300 l 1
+ 1300 1200 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 500 1400 l 1
+ 300 1200 l 1
+ 300 800 l 1
+ 500 600 l 1
+ 800 600 l 1
+ 800 0 l 1
+ 600 0 l 1
+ 600 400 l 1
+ 400 400 l 1
+ 100 700 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniA7CF
+Encoding: 5595 42959 5595
+Width: 1200
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 1
+ 100 900 l 1
+ 400 1200 l 1
+ 800 1200 l 1
+ 1100 900 l 1
+ 1100 800 l 1
+ 900 800 l 1
+ 700 1000 l 1
+ 500 1000 l 1
+ 300 800 l 1
+ 300 700 l 1
+ 500 500 l 1
+ 700 500 l 1
+ 700 0 l 1
+ 500 0 l 1
+ 500 300 l 1
+ 400 300 l 1
+ 100 600 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniA7D2
+Encoding: 5596 42962 5596
+Width: 1400
+VWidth: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 100 1600 l 1
+ 300 1600 l 1
+ 300 1400 l 1
+ 1100 1400 l 1
+ 1300 1200 l 1
+ 1300 900 l 1
+ 1200 800 l 1
+ 1300 700 l 1
+ 1300 400 l 1
+ 1100 200 l 1
+ 300 200 l 1
+ 300 0 l 1
+ 100 0 l 1
+300 400 m 1
+ 1000 400 l 1
+ 1100 500 l 1
+ 1100 600 l 1
+ 1000 700 l 1
+ 300 700 l 1
+ 300 400 l 1
+300 900 m 1
+ 1000 900 l 1
+ 1100 1000 l 1
+ 1100 1100 l 1
+ 1000 1200 l 1
+ 300 1200 l 1
+ 300 900 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniA7D4
+Encoding: 5597 42964 5597
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -400 m 1
+ 100 1600 l 1
+ 1000 1600 l 1
+ 1300 1300 l 1
+ 1300 400 l 1
+ 700 -200 l 1
+ 300 -200 l 1
+ 300 -400 l 1
+ 100 -400 l 1
+300 0 m 1
+ 600 0 l 1
+ 1100 500 l 1
+ 1100 800 l 1
+ 600 300 l 1
+ 300 300 l 1
+ 300 0 l 1
+300 500 m 1
+ 500 500 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 900 1400 l 1
+ 300 1400 l 1
+ 300 500 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniA7F1
+Encoding: 5598 42993 5598
+Width: 1200
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 800 m 1
+ 100 900 l 1
+ 300 900 l 1
+ 400 800 l 1
+ 800 800 l 1
+ 900 900 l 1
+ 900 1000 l 1
+ 800 1100 l 1
+ 300 1100 l 1
+ 100 1300 l 1
+ 100 1600 l 1
+ 300 1800 l 1
+ 900 1800 l 1
+ 1100 1600 l 1
+ 1100 1500 l 1
+ 900 1500 l 1
+ 800 1600 l 1
+ 400 1600 l 1
+ 300 1500 l 1
+ 300 1400 l 1
+ 400 1300 l 1
+ 900 1300 l 1
+ 1100 1100 l 1
+ 1100 800 l 1
+ 900 600 l 1
+ 300 600 l 1
+ 100 800 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE0
+Encoding: 5599 118496 5599
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE1
+Encoding: 5600 118497 5600
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE2
+Encoding: 5601 118498 5601
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE3
+Encoding: 5602 118499 5602
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE4
+Encoding: 5603 118500 5603
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE5
+Encoding: 5604 118501 5604
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE6
+Encoding: 5605 118502 5605
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE7
+Encoding: 5606 118503 5606
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+100 1450 m 1
+ 100 1650 l 1
+ 300 1650 l 1
+ 300 1450 l 1
+ 100 1450 l 1
+700 1450 m 1
+ 700 1650 l 1
+ 900 1650 l 1
+ 900 1450 l 1
+ 700 1450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE8
+Encoding: 5607 118504 5607
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEE9
+Encoding: 5608 118505 5608
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEEA
+Encoding: 5609 118506 5609
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEEB
+Encoding: 5610 118507 5610
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+100 950 m 1
+ 100 1150 l 1
+ 300 1150 l 1
+ 300 950 l 1
+ 100 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 950 m 1
+ 700 1150 l 1
+ 900 1150 l 1
+ 900 950 l 1
+ 700 950 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEEC
+Encoding: 5611 118508 5611
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEED
+Encoding: 5612 118509 5612
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+100 450 m 1
+ 100 650 l 1
+ 300 650 l 1
+ 300 450 l 1
+ 100 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 450 m 1
+ 700 650 l 1
+ 900 650 l 1
+ 900 450 l 1
+ 700 450 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEEE
+Encoding: 5613 118510 5613
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 -50 m 1
+ 100 150 l 1
+ 300 150 l 1
+ 300 -50 l 1
+ 100 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+700 -50 m 1
+ 700 150 l 1
+ 900 150 l 1
+ 900 -50 l 1
+ 700 -50 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1CEEF
+Encoding: 5614 118511 5614
+Width: 1000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 -50 m 1
+ 400 150 l 1
+ 600 150 l 1
+ 600 -50 l 1
+ 400 -50 l 1
+400 450 m 1
+ 400 650 l 1
+ 600 650 l 1
+ 600 450 l 1
+ 400 450 l 1
+400 950 m 1
+ 400 1150 l 1
+ 600 1150 l 1
+ 600 950 l 1
+ 400 950 l 1
+400 1450 m 1
+ 400 1650 l 1
+ 600 1650 l 1
+ 600 1450 l 1
+ 400 1450 l 1
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
