@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.022 - Released 03/17/2025
+
+Additions
+- Added the Hebrew script, including any precomposed characters in the Alphabetic Presentation Forms Unicode block.
+
+-------------------------------------------------------------------------------
+
 Version 1.021 - Released 02/01/2025
 
 Additions
