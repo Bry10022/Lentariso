@@ -2,6 +2,16 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.024 - Released 03/19/2025
+
+Additions
+- Added the Osmanya script.
+
+Changes
+- Optimize characters in Hebrew to help reduce file size.
+
+-------------------------------------------------------------------------------
+
 Version 1.023 - Released 03/18/2025
 
 Additions
