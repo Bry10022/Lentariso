@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Regular
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.023
+Version: 1.024
 ItalicAngle: -5
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1742309861
+ModificationTime: 1742421662
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -162,7 +162,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 5504 16 12
+WinInfo: 5552 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -180,7 +180,7 @@ Grid
   Named: "Ascent"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 524288 -740994 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 5689 5689
+BeginChars: 5729 5729
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -177130,7 +177130,7 @@ EndChar
 StartChar: uni05D0
 Encoding: 5615 1488 5615
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177161,11 +177161,13 @@ EndChar
 StartChar: uni05D1
 Encoding: 5616 1489 5616
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-917 200 m 1
+100 0 m 1
+ 117 200 l 1
+ 917 200 l 1
  1005 1200 l 1
  822 1400 l 1
  222 1400 l 1
@@ -177176,15 +177178,13 @@ SplineSet
  1317 200 l 1
  1300 0 l 1
  100 0 l 1
- 117 200 l 1
- 917 200 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05D2
 Encoding: 5617 1490 5617
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177210,11 +177210,12 @@ EndChar
 StartChar: uni05D3
 Encoding: 5618 1491 5618
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-240 1600 m 1
+222 1400 m 1
+ 240 1600 l 1
  1440 1600 l 1
  1422 1400 l 1
  1222 1400 l 1
@@ -177222,22 +177223,21 @@ SplineSet
  900 0 l 1
  1022 1400 l 1
  222 1400 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05D4
 Encoding: 5619 1492 5619
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-187 1000 m 1
+100 0 m 1
+ 187 1000 l 1
  387 1000 l 1
  300 0 l 1
  100 0 l 1
- 187 1000 l 1
 222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
@@ -177253,26 +177253,27 @@ EndChar
 StartChar: uni05D5
 Encoding: 5620 1493 5620
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-240 1600 m 1
+100 0 m 1
+ 240 1600 l 1
  440 1600 l 1
  300 0 l 1
  100 0 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05D6
 Encoding: 5621 1494 5621
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-240 1600 m 1
+222 1400 m 1
+ 240 1600 l 1
  1040 1600 l 1
  996 1100 l 1
  779 900 l 1
@@ -177282,14 +177283,13 @@ SplineSet
  805 1200 l 1
  822 1400 l 1
  222 1400 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05D7
 Encoding: 5622 1495 5622
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177310,11 +177310,14 @@ EndChar
 StartChar: uni05D8
 Encoding: 5623 1496 5623
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-335 400 m 1
+126 300 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 335 400 l 1
  517 200 l 1
  917 200 l 1
  1135 400 l 1
@@ -177328,54 +177331,52 @@ SplineSet
  1000 0 l 1
  400 0 l 1
  126 300 l 1
- 240 1600 l 1
- 440 1600 l 1
- 335 400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05D9
 Encoding: 5624 1497 5624
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-240 1600 m 1
+187 1000 m 1
+ 240 1600 l 1
  440 1600 l 1
  387 1000 l 1
  187 1000 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05DA
 Encoding: 5625 1498 5625
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1065 -400 m 1
- 1205 1200 l 1
- 1022 1400 l 1
- 222 1400 l 1
+222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
  1265 -400 l 1
  1065 -400 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 222 1400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05DB
 Encoding: 5626 1499 5626
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-117 200 m 1
+100 0 m 1
+ 117 200 l 1
  917 200 l 1
  1135 400 l 1
  1205 1200 l 1
@@ -177387,18 +177388,20 @@ SplineSet
  1326 300 l 1
  1000 0 l 1
  100 0 l 1
- 117 200 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05DC
 Encoding: 5627 1500 5627
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-440 1600 m 1
+222 1400 m 1
+ 275 2000 l 1
+ 475 2000 l 1
+ 440 1600 l 1
  1440 1600 l 1
  1379 900 l 1
  835 400 l 1
@@ -177408,42 +177411,42 @@ SplineSet
  1187 1000 l 1
  1222 1400 l 1
  222 1400 l 1
- 275 2000 l 1
- 475 2000 l 1
- 440 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05DD
 Encoding: 5628 1501 5628
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-422 1400 m 1
- 317 200 l 1
- 1117 200 l 1
- 1205 1200 l 1
- 1022 1400 l 1
- 422 1400 l 1
 100 0 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
  1300 0 l 1
  100 0 l 1
+317 200 m 1
+ 1117 200 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 422 1400 l 1
+ 317 200 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05DE
 Encoding: 5629 1502 5629
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-222 1400 m 1
+100 0 m 1
+ 196 1100 l 1
+ 522 1400 l 1
+ 222 1400 l 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
@@ -177457,35 +177460,33 @@ SplineSet
  387 1000 l 1
  300 0 l 1
  100 0 l 1
- 196 1100 l 1
- 522 1400 l 1
- 222 1400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05DF
 Encoding: 5630 1503 5630
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-240 1600 m 1
+65 -400 m 1
+ 240 1600 l 1
  440 1600 l 1
  265 -400 l 1
  65 -400 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05E0
 Encoding: 5631 1504 5631
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-117 200 m 1
+100 0 m 1
+ 117 200 l 1
  717 200 l 1
  805 1200 l 1
  622 1400 l 1
@@ -177495,14 +177496,13 @@ SplineSet
  1014 1300 l 1
  900 0 l 1
  100 0 l 1
- 117 200 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05E1
 Encoding: 5632 1505 5632
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177528,16 +177528,11 @@ EndChar
 StartChar: uni05E2
 Encoding: 5633 1506 5633
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1240 1600 m 1
- 1440 1600 l 1
- 1309 100 l 1
- 765 -400 l 1
- 65 -400 l 1
- 83 -200 l 1
+83 -200 m 1
  283 -200 l 1
  440 1600 l 1
  640 1600 l 1
@@ -177545,6 +177540,11 @@ SplineSet
  683 -200 l 1
  1117 200 l 1
  1240 1600 l 1
+ 1440 1600 l 1
+ 1309 100 l 1
+ 765 -400 l 1
+ 65 -400 l 1
+ 83 -200 l 1
 EndSplineSet
 EndChar
 
@@ -177552,11 +177552,16 @@ StartChar: uni05E3
 Encoding: 5634 1507 5634
 Width: 1400
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1065 -400 m 1
+161 700 m 1
+ 240 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1265 -400 l 1
+ 1065 -400 l 1
  1205 1200 l 1
  1022 1400 l 1
  422 1400 l 1
@@ -177564,11 +177569,6 @@ SplineSet
  579 900 l 1
  561 700 l 1
  161 700 l 1
- 240 1600 l 1
- 1140 1600 l 1
- 1414 1300 l 1
- 1265 -400 l 1
- 1065 -400 l 1
 EndSplineSet
 EndChar
 
@@ -177576,7 +177576,7 @@ StartChar: uni05E4
 Encoding: 5635 1508 5635
 Width: 1400
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177603,13 +177603,11 @@ EndChar
 StartChar: uni05E5
 Encoding: 5636 1509 5636
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-665 -400 m 1
- 744 500 l 1
- 196 1100 l 1
+196 1100 m 1
  240 1600 l 1
  440 1600 l 1
  405 1200 l 1
@@ -177621,18 +177619,19 @@ SplineSet
  935 400 l 1
  865 -400 l 1
  665 -400 l 1
+ 744 500 l 1
+ 196 1100 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05E6
 Encoding: 5637 1510 5637
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1300 0 m 1
- 100 0 l 1
+100 0 m 1
  117 200 l 1
  1117 200 l 1
  1122 250 l 1
@@ -177648,18 +177647,23 @@ SplineSet
  1057 650 l 1
  1331 350 l 1
  1300 0 l 1
+ 100 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05E7
 Encoding: 5638 1511 5638
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1022 1400 m 1
- 222 1400 l 1
+65 -400 m 1
+ 187 1000 l 1
+ 387 1000 l 1
+ 265 -400 l 1
+ 65 -400 l 1
+222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
@@ -177670,37 +177674,33 @@ SplineSet
  1144 500 l 1
  1205 1200 l 1
  1022 1400 l 1
-187 1000 m 1
- 387 1000 l 1
- 265 -400 l 1
- 65 -400 l 1
- 187 1000 l 1
+ 222 1400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05E8
 Encoding: 5639 1512 5639
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1100 0 m 1
- 1205 1200 l 1
- 1022 1400 l 1
- 222 1400 l 1
+222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
  1300 0 l 1
  1100 0 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 222 1400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05E9
 Encoding: 5640 1513 5640
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177727,11 +177727,15 @@ EndChar
 StartChar: uni05EA
 Encoding: 5641 1514 5641
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-222 1400 m 1
+100 0 m 1
+ 109 100 l 1
+ 326 300 l 1
+ 422 1400 l 1
+ 222 1400 l 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
@@ -177743,77 +177747,73 @@ SplineSet
  517 200 l 1
  300 0 l 1
  100 0 l 1
- 109 100 l 1
- 326 300 l 1
- 422 1400 l 1
- 222 1400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05F0
 Encoding: 5642 1520 5642
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-640 1600 m 1
- 840 1600 l 1
- 700 0 l 1
- 500 0 l 1
- 640 1600 l 1
-240 1600 m 1
+100 0 m 1
+ 240 1600 l 1
  440 1600 l 1
  300 0 l 1
  100 0 l 1
- 240 1600 l 1
+500 0 m 1
+ 640 1600 l 1
+ 840 1600 l 1
+ 700 0 l 1
+ 500 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05F1
 Encoding: 5643 1521 5643
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-640 1600 m 1
- 840 1600 l 1
- 700 0 l 1
- 500 0 l 1
- 640 1600 l 1
-240 1600 m 1
+187 1000 m 1
+ 240 1600 l 1
  440 1600 l 1
  387 1000 l 1
  187 1000 l 1
- 240 1600 l 1
+500 0 m 1
+ 640 1600 l 1
+ 840 1600 l 1
+ 700 0 l 1
+ 500 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05F2
 Encoding: 5644 1522 5644
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-640 1600 m 1
- 840 1600 l 1
- 787 1000 l 1
- 587 1000 l 1
- 640 1600 l 1
-240 1600 m 1
+187 1000 m 1
+ 240 1600 l 1
  440 1600 l 1
  387 1000 l 1
  187 1000 l 1
- 240 1600 l 1
+587 1000 m 1
+ 640 1600 l 1
+ 840 1600 l 1
+ 787 1000 l 1
+ 587 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05F3
 Encoding: 5645 1523 5645
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177828,27 +177828,27 @@ EndChar
 StartChar: uni05F4
 Encoding: 5646 1524 5646
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-605 1200 m 1
- 640 1600 l 1
- 840 1600 l 1
- 755 1200 l 1
- 605 1200 l 1
 205 1200 m 1
  240 1600 l 1
  440 1600 l 1
  355 1200 l 1
  205 1200 l 1
+605 1200 m 1
+ 640 1600 l 1
+ 840 1600 l 1
+ 755 1200 l 1
+ 605 1200 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05C0
 Encoding: 5647 1472 5647
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177863,13 +177863,11 @@ EndChar
 StartChar: uni05C6
 Encoding: 5648 1478 5648
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-917 200 m 1
- 900 0 l 1
- 100 0 l 1
+100 0 m 1
  214 1300 l 1
  540 1600 l 1
  1040 1600 l 1
@@ -177878,33 +177876,35 @@ SplineSet
  405 1200 l 1
  317 200 l 1
  917 200 l 1
+ 900 0 l 1
+ 100 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05C3
 Encoding: 5649 1475 5649
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-187 1000 m 1
- 205 1200 l 1
- 405 1200 l 1
- 387 1000 l 1
- 187 1000 l 1
 100 0 m 1
  117 200 l 1
  317 200 l 1
  300 0 l 1
  100 0 l 1
+187 1000 m 1
+ 205 1200 l 1
+ 405 1200 l 1
+ 387 1000 l 1
+ 187 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni05BE
 Encoding: 5650 1470 5650
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177919,52 +177919,52 @@ EndChar
 StartChar: uni05EF
 Encoding: 5651 1519 5651
 Width: 1200
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1040 1600 m 1
- 1240 1600 l 1
- 1187 1000 l 1
- 987 1000 l 1
- 1040 1600 l 1
-657 1800 m 1
- 857 1800 l 1
- 805 1200 l 1
- 605 1200 l 1
- 657 1800 l 1
-240 1600 m 1
+187 1000 m 1
+ 240 1600 l 1
  440 1600 l 1
  387 1000 l 1
  187 1000 l 1
- 240 1600 l 1
+605 1200 m 1
+ 657 1800 l 1
+ 857 1800 l 1
+ 805 1200 l 1
+ 605 1200 l 1
+987 1000 m 1
+ 1040 1600 l 1
+ 1240 1600 l 1
+ 1187 1000 l 1
+ 987 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB1D
 Encoding: 5652 64285 5652
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-240 1600 m 1
- 440 1600 l 1
- 387 1000 l 1
- 187 1000 l 1
- 240 1600 l 1
 152 600 m 1
  170 800 l 1
  370 800 l 1
  352 600 l 1
  152 600 l 1
+187 1000 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 387 1000 l 1
+ 187 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB1F
 Encoding: 5653 64287 5653
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -177973,31 +177973,27 @@ SplineSet
  770 800 l 1
  752 600 l 1
  152 600 l 1
-640 1600 m 1
- 840 1600 l 1
- 787 1000 l 1
- 587 1000 l 1
- 640 1600 l 1
-240 1600 m 1
+187 1000 m 1
+ 240 1600 l 1
  440 1600 l 1
  387 1000 l 1
  187 1000 l 1
- 240 1600 l 1
+587 1000 m 1
+ 640 1600 l 1
+ 840 1600 l 1
+ 787 1000 l 1
+ 587 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB20
 Encoding: 5654 64288 5654
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1240 1600 m 1
- 1440 1600 l 1
- 1326 300 l 1
- 1000 0 l 1
- 100 0 l 1
+100 0 m 1
  117 200 l 1
  317 200 l 1
  440 1600 l 1
@@ -178006,13 +178002,17 @@ SplineSet
  917 200 l 1
  1135 400 l 1
  1240 1600 l 1
+ 1440 1600 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 100 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB29
 Encoding: 5655 64297 5655
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -178031,15 +178031,10 @@ EndChar
 StartChar: uniFB2A
 Encoding: 5656 64298 5656
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1657 1800 m 1
- 1675 2000 l 1
- 1875 2000 l 1
- 1857 1800 l 1
- 1657 1800 l 1
 100 0 m 1
  240 1600 l 1
  440 1600 l 1
@@ -178057,21 +178052,21 @@ SplineSet
  1774 850 l 1
  850 0 l 1
  100 0 l 1
+1657 1800 m 1
+ 1675 2000 l 1
+ 1875 2000 l 1
+ 1857 1800 l 1
+ 1657 1800 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB2B
 Encoding: 5657 64299 5657
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-257 1800 m 1
- 275 2000 l 1
- 475 2000 l 1
- 457 1800 l 1
- 257 1800 l 1
 100 0 m 1
  240 1600 l 1
  440 1600 l 1
@@ -178089,21 +178084,21 @@ SplineSet
  1774 850 l 1
  850 0 l 1
  100 0 l 1
+257 1800 m 1
+ 275 2000 l 1
+ 475 2000 l 1
+ 457 1800 l 1
+ 257 1800 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB2C
 Encoding: 5658 64300 5658
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1657 1800 m 1
- 1675 2000 l 1
- 1875 2000 l 1
- 1857 1800 l 1
- 1657 1800 l 1
 100 0 m 1
  240 1600 l 1
  440 1600 l 1
@@ -178126,21 +178121,21 @@ SplineSet
  1179 900 l 1
  1161 700 l 1
  961 700 l 1
+1657 1800 m 1
+ 1675 2000 l 1
+ 1875 2000 l 1
+ 1857 1800 l 1
+ 1657 1800 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB2D
 Encoding: 5659 64301 5659
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-257 1800 m 1
- 275 2000 l 1
- 475 2000 l 1
- 457 1800 l 1
- 257 1800 l 1
 100 0 m 1
  240 1600 l 1
  440 1600 l 1
@@ -178158,6 +178153,11 @@ SplineSet
  1774 850 l 1
  850 0 l 1
  100 0 l 1
+257 1800 m 1
+ 275 2000 l 1
+ 475 2000 l 1
+ 457 1800 l 1
+ 257 1800 l 1
 961 700 m 1
  979 900 l 1
  1179 900 l 1
@@ -178169,15 +178169,10 @@ EndChar
 StartChar: uniFB2E
 Encoding: 5660 64302 5660
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-383 -200 m 1
- 983 -200 l 1
- 965 -400 l 1
- 365 -400 l 1
- 383 -200 l 1
 100 0 m 1
  157 650 l 1
  483 950 l 1
@@ -178199,16 +178194,42 @@ SplineSet
  348 550 l 1
  300 0 l 1
  100 0 l 1
+383 -200 m 1
+ 983 -200 l 1
+ 965 -400 l 1
+ 365 -400 l 1
+ 383 -200 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB2F
 Encoding: 5661 64303 5661
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
+100 0 m 1
+ 157 650 l 1
+ 483 950 l 1
+ 209 1250 l 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 418 1350 l 1
+ 920 800 l 1
+ 1192 1050 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1383 950 l 1
+ 1057 650 l 1
+ 1331 350 l 1
+ 1300 0 l 1
+ 1100 0 l 1
+ 1122 250 l 1
+ 620 800 l 1
+ 348 550 l 1
+ 300 0 l 1
+ 100 0 l 1
 391 -100 m 1
  991 -100 l 1
  974 -300 l 1
@@ -178218,42 +178239,16 @@ SplineSet
  574 -300 l 1
  374 -300 l 1
  391 -100 l 1
-100 0 m 1
- 157 650 l 1
- 483 950 l 1
- 209 1250 l 1
- 240 1600 l 1
- 440 1600 l 1
- 418 1350 l 1
- 920 800 l 1
- 1192 1050 l 1
- 1240 1600 l 1
- 1440 1600 l 1
- 1383 950 l 1
- 1057 650 l 1
- 1331 350 l 1
- 1300 0 l 1
- 1100 0 l 1
- 1122 250 l 1
- 620 800 l 1
- 348 550 l 1
- 300 0 l 1
- 100 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB30
 Encoding: 5662 64304 5662
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-600 0 m 1
- 617 200 l 1
- 817 200 l 1
- 800 0 l 1
- 600 0 l 1
 100 0 m 1
  157 650 l 1
  483 950 l 1
@@ -178275,22 +178270,24 @@ SplineSet
  348 550 l 1
  300 0 l 1
  100 0 l 1
+600 0 m 1
+ 617 200 l 1
+ 817 200 l 1
+ 800 0 l 1
+ 600 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB31
 Encoding: 5663 64305 5663
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-361 700 m 1
- 379 900 l 1
- 579 900 l 1
- 561 700 l 1
- 361 700 l 1
-917 200 m 1
+100 0 m 1
+ 117 200 l 1
+ 917 200 l 1
  1005 1200 l 1
  822 1400 l 1
  222 1400 l 1
@@ -178301,23 +178298,21 @@ SplineSet
  1317 200 l 1
  1300 0 l 1
  100 0 l 1
- 117 200 l 1
- 917 200 l 1
+361 700 m 1
+ 379 900 l 1
+ 579 900 l 1
+ 561 700 l 1
+ 361 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB32
 Encoding: 5664 64306 5664
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-170 800 m 1
- 187 1000 l 1
- 387 1000 l 1
- 370 800 l 1
- 170 800 l 1
 100 0 m 1
  109 100 l 1
  435 400 l 1
@@ -178334,13 +178329,18 @@ SplineSet
  517 200 l 1
  300 0 l 1
  100 0 l 1
+170 800 m 1
+ 187 1000 l 1
+ 387 1000 l 1
+ 370 800 l 1
+ 170 800 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB33
 Encoding: 5665 64307 5665
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -178349,7 +178349,8 @@ SplineSet
  379 900 l 1
  361 700 l 1
  161 700 l 1
-240 1600 m 1
+222 1400 m 1
+ 240 1600 l 1
  1440 1600 l 1
  1422 1400 l 1
  1222 1400 l 1
@@ -178357,27 +178358,21 @@ SplineSet
  900 0 l 1
  1022 1400 l 1
  222 1400 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB34
 Encoding: 5666 64308 5666
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-661 700 m 1
- 679 900 l 1
- 879 900 l 1
- 861 700 l 1
- 661 700 l 1
-187 1000 m 1
+100 0 m 1
+ 187 1000 l 1
  387 1000 l 1
  300 0 l 1
  100 0 l 1
- 187 1000 l 1
 222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
@@ -178387,13 +178382,18 @@ SplineSet
  1205 1200 l 1
  1022 1400 l 1
  222 1400 l 1
+661 700 m 1
+ 679 900 l 1
+ 879 900 l 1
+ 861 700 l 1
+ 661 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB35
 Encoding: 5667 64309 5667
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -178402,18 +178402,18 @@ SplineSet
  379 900 l 1
  361 700 l 1
  161 700 l 1
-640 1600 m 1
+500 0 m 1
+ 640 1600 l 1
  840 1600 l 1
  700 0 l 1
  500 0 l 1
- 640 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB36
 Encoding: 5668 64310 5668
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -178422,7 +178422,8 @@ SplineSet
  379 900 l 1
  361 700 l 1
  161 700 l 1
-240 1600 m 1
+222 1400 m 1
+ 240 1600 l 1
  1040 1600 l 1
  996 1100 l 1
  779 900 l 1
@@ -178432,23 +178433,20 @@ SplineSet
  805 1200 l 1
  822 1400 l 1
  222 1400 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB38
 Encoding: 5669 64312 5669
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-661 700 m 1
- 679 900 l 1
- 879 900 l 1
- 861 700 l 1
- 661 700 l 1
-335 400 m 1
+126 300 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 335 400 l 1
  517 200 l 1
  917 200 l 1
  1135 400 l 1
@@ -178462,16 +178460,18 @@ SplineSet
  1000 0 l 1
  400 0 l 1
  126 300 l 1
- 240 1600 l 1
- 440 1600 l 1
- 335 400 l 1
+661 700 m 1
+ 679 900 l 1
+ 879 900 l 1
+ 861 700 l 1
+ 661 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB39
 Encoding: 5670 64313 5670
 Width: 800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -178480,51 +178480,47 @@ SplineSet
  422 1400 l 1
  405 1200 l 1
  205 1200 l 1
-640 1600 m 1
+587 1000 m 1
+ 640 1600 l 1
  840 1600 l 1
  787 1000 l 1
  587 1000 l 1
- 640 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB3A
 Encoding: 5671 64314 5671
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-361 700 m 1
- 379 900 l 1
- 579 900 l 1
- 561 700 l 1
- 361 700 l 1
-1065 -400 m 1
- 1205 1200 l 1
- 1022 1400 l 1
- 222 1400 l 1
+222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
  1265 -400 l 1
  1065 -400 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 222 1400 l 1
+361 700 m 1
+ 379 900 l 1
+ 579 900 l 1
+ 561 700 l 1
+ 361 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB3B
 Encoding: 5672 64315 5672
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-361 700 m 1
- 379 900 l 1
- 579 900 l 1
- 561 700 l 1
- 361 700 l 1
-117 200 m 1
+100 0 m 1
+ 117 200 l 1
  917 200 l 1
  1135 400 l 1
  1205 1200 l 1
@@ -178536,23 +178532,25 @@ SplineSet
  1326 300 l 1
  1000 0 l 1
  100 0 l 1
- 117 200 l 1
+361 700 m 1
+ 379 900 l 1
+ 579 900 l 1
+ 561 700 l 1
+ 361 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB3C
 Encoding: 5673 64316 5673
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-261 700 m 1
- 279 900 l 1
- 479 900 l 1
- 461 700 l 1
- 261 700 l 1
-440 1600 m 1
+222 1400 m 1
+ 275 2000 l 1
+ 475 2000 l 1
+ 440 1600 l 1
  1440 1600 l 1
  1379 900 l 1
  835 400 l 1
@@ -178562,25 +178560,25 @@ SplineSet
  1187 1000 l 1
  1222 1400 l 1
  222 1400 l 1
- 275 2000 l 1
- 475 2000 l 1
- 440 1600 l 1
+261 700 m 1
+ 279 900 l 1
+ 479 900 l 1
+ 461 700 l 1
+ 261 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB3E
 Encoding: 5674 64318 5674
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-661 700 m 1
- 679 900 l 1
- 879 900 l 1
- 861 700 l 1
- 661 700 l 1
-222 1400 m 1
+100 0 m 1
+ 196 1100 l 1
+ 522 1400 l 1
+ 222 1400 l 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
@@ -178594,25 +178592,23 @@ SplineSet
  387 1000 l 1
  300 0 l 1
  100 0 l 1
- 196 1100 l 1
- 522 1400 l 1
- 222 1400 l 1
+661 700 m 1
+ 679 900 l 1
+ 879 900 l 1
+ 861 700 l 1
+ 661 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB40
 Encoding: 5675 64320 5675
 Width: 1000
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-161 700 m 1
- 179 900 l 1
- 379 900 l 1
- 361 700 l 1
- 161 700 l 1
-117 200 m 1
+100 0 m 1
+ 117 200 l 1
  717 200 l 1
  805 1200 l 1
  622 1400 l 1
@@ -178622,22 +178618,21 @@ SplineSet
  1014 1300 l 1
  900 0 l 1
  100 0 l 1
- 117 200 l 1
+161 700 m 1
+ 179 900 l 1
+ 379 900 l 1
+ 361 700 l 1
+ 161 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB41
 Encoding: 5676 64321 5676
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-661 700 m 1
- 679 900 l 1
- 879 900 l 1
- 861 700 l 1
- 661 700 l 1
 126 300 m 1
  240 1600 l 1
  1140 1600 l 1
@@ -178654,6 +178649,11 @@ SplineSet
  1022 1400 l 1
  422 1400 l 1
  335 400 l 1
+661 700 m 1
+ 679 900 l 1
+ 879 900 l 1
+ 861 700 l 1
+ 661 700 l 1
 EndSplineSet
 EndChar
 
@@ -178661,16 +178661,16 @@ StartChar: uniFB43
 Encoding: 5677 64323 5677
 Width: 1400
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-761 700 m 1
- 779 900 l 1
- 979 900 l 1
- 961 700 l 1
- 761 700 l 1
-1065 -400 m 1
+161 700 m 1
+ 240 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1265 -400 l 1
+ 1065 -400 l 1
  1205 1200 l 1
  1022 1400 l 1
  422 1400 l 1
@@ -178678,11 +178678,11 @@ SplineSet
  579 900 l 1
  561 700 l 1
  161 700 l 1
- 240 1600 l 1
- 1140 1600 l 1
- 1414 1300 l 1
- 1265 -400 l 1
- 1065 -400 l 1
+761 700 m 1
+ 779 900 l 1
+ 979 900 l 1
+ 961 700 l 1
+ 761 700 l 1
 EndSplineSet
 EndChar
 
@@ -178690,15 +178690,10 @@ StartChar: uniFB44
 Encoding: 5678 64324 5678
 Width: 1400
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-761 700 m 1
- 779 900 l 1
- 979 900 l 1
- 961 700 l 1
- 761 700 l 1
 100 0 m 1
  117 200 l 1
  917 200 l 1
@@ -178716,23 +178711,22 @@ SplineSet
  1326 300 l 1
  1000 0 l 1
  100 0 l 1
+761 700 m 1
+ 779 900 l 1
+ 979 900 l 1
+ 961 700 l 1
+ 761 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB46
 Encoding: 5679 64326 5679
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-135 400 m 1
- 152 600 l 1
- 352 600 l 1
- 335 400 l 1
- 135 400 l 1
-1300 0 m 1
- 100 0 l 1
+100 0 m 1
  117 200 l 1
  1117 200 l 1
  1122 250 l 1
@@ -178748,23 +178742,28 @@ SplineSet
  1057 650 l 1
  1331 350 l 1
  1300 0 l 1
+ 100 0 l 1
+135 400 m 1
+ 152 600 l 1
+ 352 600 l 1
+ 335 400 l 1
+ 135 400 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB47
 Encoding: 5680 64327 5680
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-661 700 m 1
- 679 900 l 1
- 879 900 l 1
- 861 700 l 1
- 661 700 l 1
-1022 1400 m 1
- 222 1400 l 1
+65 -400 m 1
+ 187 1000 l 1
+ 387 1000 l 1
+ 265 -400 l 1
+ 65 -400 l 1
+222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
@@ -178775,50 +178774,46 @@ SplineSet
  1144 500 l 1
  1205 1200 l 1
  1022 1400 l 1
-187 1000 m 1
- 387 1000 l 1
- 265 -400 l 1
- 65 -400 l 1
- 187 1000 l 1
+ 222 1400 l 1
+661 700 m 1
+ 679 900 l 1
+ 879 900 l 1
+ 861 700 l 1
+ 661 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB48
 Encoding: 5681 64328 5681
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-361 700 m 1
- 379 900 l 1
- 579 900 l 1
- 561 700 l 1
- 361 700 l 1
-1100 0 m 1
- 1205 1200 l 1
- 1022 1400 l 1
- 222 1400 l 1
+222 1400 m 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
  1300 0 l 1
  1100 0 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 222 1400 l 1
+361 700 m 1
+ 379 900 l 1
+ 579 900 l 1
+ 561 700 l 1
+ 361 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB49
 Encoding: 5682 64329 5682
 Width: 1800
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-961 700 m 1
- 979 900 l 1
- 1179 900 l 1
- 1161 700 l 1
- 961 700 l 1
 100 0 m 1
  240 1600 l 1
  440 1600 l 1
@@ -178836,22 +178831,26 @@ SplineSet
  1774 850 l 1
  850 0 l 1
  100 0 l 1
+961 700 m 1
+ 979 900 l 1
+ 1179 900 l 1
+ 1161 700 l 1
+ 961 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB4A
 Encoding: 5683 64330 5683
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-761 700 m 1
- 779 900 l 1
- 979 900 l 1
- 961 700 l 1
- 761 700 l 1
-222 1400 m 1
+100 0 m 1
+ 109 100 l 1
+ 326 300 l 1
+ 422 1400 l 1
+ 222 1400 l 1
  240 1600 l 1
  1140 1600 l 1
  1414 1300 l 1
@@ -178863,46 +178862,44 @@ SplineSet
  517 200 l 1
  300 0 l 1
  100 0 l 1
- 109 100 l 1
- 326 300 l 1
- 422 1400 l 1
- 222 1400 l 1
+761 700 m 1
+ 779 900 l 1
+ 979 900 l 1
+ 961 700 l 1
+ 761 700 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB4B
 Encoding: 5684 64331 5684
 Width: 400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
+100 0 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 300 0 l 1
+ 100 0 l 1
 257 1800 m 1
  275 2000 l 1
  475 2000 l 1
  457 1800 l 1
  257 1800 l 1
-240 1600 m 1
- 440 1600 l 1
- 300 0 l 1
- 100 0 l 1
- 240 1600 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB4C
 Encoding: 5685 64332 5685
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-557 1800 m 1
- 575 2000 l 1
- 1175 2000 l 1
- 1157 1800 l 1
- 557 1800 l 1
-917 200 m 1
+100 0 m 1
+ 117 200 l 1
+ 917 200 l 1
  1005 1200 l 1
  822 1400 l 1
  222 1400 l 1
@@ -178913,24 +178910,23 @@ SplineSet
  1317 200 l 1
  1300 0 l 1
  100 0 l 1
- 117 200 l 1
- 917 200 l 1
+557 1800 m 1
+ 575 2000 l 1
+ 1175 2000 l 1
+ 1157 1800 l 1
+ 557 1800 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB4D
 Encoding: 5686 64333 5686
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-557 1800 m 1
- 575 2000 l 1
- 1175 2000 l 1
- 1157 1800 l 1
- 557 1800 l 1
-117 200 m 1
+100 0 m 1
+ 117 200 l 1
  917 200 l 1
  1135 400 l 1
  1205 1200 l 1
@@ -178942,7 +178938,11 @@ SplineSet
  1326 300 l 1
  1000 0 l 1
  100 0 l 1
- 117 200 l 1
+557 1800 m 1
+ 575 2000 l 1
+ 1175 2000 l 1
+ 1157 1800 l 1
+ 557 1800 l 1
 EndSplineSet
 EndChar
 
@@ -178950,15 +178950,10 @@ StartChar: uniFB4E
 Encoding: 5687 64334 5687
 Width: 1400
 VWidth: 2500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-557 1800 m 1
- 575 2000 l 1
- 1175 2000 l 1
- 1157 1800 l 1
- 557 1800 l 1
 100 0 m 1
  117 200 l 1
  917 200 l 1
@@ -178976,21 +178971,22 @@ SplineSet
  1326 300 l 1
  1000 0 l 1
  100 0 l 1
+557 1800 m 1
+ 575 2000 l 1
+ 1175 2000 l 1
+ 1157 1800 l 1
+ 557 1800 l 1
 EndSplineSet
 EndChar
 
 StartChar: uniFB4F
 Encoding: 5688 64335 5688
 Width: 1400
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-1331 350 m 1
- 1300 0 l 1
- 1100 0 l 1
- 1122 250 l 1
- 209 1250 l 1
+209 1250 m 1
  275 2000 l 1
  475 2000 l 1
  418 1350 l 1
@@ -179001,6 +178997,1319 @@ SplineSet
  1383 950 l 1
  1057 650 l 1
  1331 350 l 1
+ 1300 0 l 1
+ 1100 0 l 1
+ 1122 250 l 1
+ 209 1250 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10480
+Encoding: 5689 66688 5689
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 170 800 l 1
+ 659 1250 l 1
+ 431 1500 l 1
+ 440 1600 l 1
+ 640 1600 l 1
+ 822 1400 l 1
+ 1040 1600 l 1
+ 1240 1600 l 1
+ 1231 1500 l 1
+ 959 1250 l 1
+ 1370 800 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+335 400 m 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1161 700 l 1
+ 796 1100 l 1
+ 361 700 l 1
+ 335 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10481
+Encoding: 5690 66689 5690
+Width: 2600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+187 1000 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 979 900 l 1
+ 1196 1100 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1396 1100 l 1
+ 1579 900 l 1
+ 2179 900 l 1
+ 2240 1600 l 1
+ 2440 1600 l 1
+ 2352 600 l 1
+ 2552 600 l 1
+ 2535 400 l 1
+ 2335 400 l 1
+ 2326 300 l 1
+ 2000 0 l 1
+ 1400 0 l 1
+ 1309 100 l 1
+ 1326 300 l 1
+ 1652 600 l 1
+ 2152 600 l 1
+ 2161 700 l 1
+ 1461 700 l 1
+ 1279 900 l 1
+ 1061 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+1517 200 m 1
+ 1917 200 l 1
+ 2135 400 l 1
+ 1735 400 l 1
+ 1517 200 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10482
+Encoding: 5691 66690 5691
+Width: 2600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+152 600 m 1
+ 187 1000 l 1
+ 405 1200 l 1
+ 1405 1200 l 1
+ 1440 1600 l 1
+ 1640 1600 l 1
+ 1535 400 l 1
+ 1717 200 l 1
+ 2117 200 l 1
+ 2335 400 l 1
+ 2535 400 l 1
+ 2526 300 l 1
+ 2200 0 l 1
+ 1600 0 l 1
+ 1326 300 l 1
+ 1387 1000 l 1
+ 987 1000 l 1
+ 952 600 l 1
+ 735 400 l 1
+ 335 400 l 1
+ 152 600 l 1
+361 700 m 1
+ 452 600 l 1
+ 652 600 l 1
+ 761 700 l 1
+ 787 1000 l 1
+ 487 1000 l 1
+ 379 900 l 1
+ 361 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10483
+Encoding: 5692 66691 5692
+Width: 400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10484
+Encoding: 5693 66692 5693
+Width: 2600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 987 1000 l 1
+ 1640 1600 l 1
+ 1840 1600 l 1
+ 1735 400 l 1
+ 1917 200 l 1
+ 2117 200 l 1
+ 2335 400 l 1
+ 2535 400 l 1
+ 2526 300 l 1
+ 2200 0 l 1
+ 1800 0 l 1
+ 1526 300 l 1
+ 1614 1300 l 1
+ 1070 800 l 1
+ 1026 300 l 1
+ 826 300 l 1
+ 870 800 l 1
+ 414 1300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10485
+Encoding: 5694 66693 5694
+Width: 2200
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 222 1400 l 1
+ 440 1600 l 1
+ 640 1600 l 1
+ 631 1500 l 1
+ 414 1300 l 1
+ 379 900 l 1
+ 1079 900 l 1
+ 1352 600 l 1
+ 1335 400 l 1
+ 1517 200 l 1
+ 1717 200 l 1
+ 1935 400 l 1
+ 2135 400 l 1
+ 2126 300 l 1
+ 1800 0 l 1
+ 1400 0 l 1
+ 1126 300 l 1
+ 1144 500 l 1
+ 961 700 l 1
+ 361 700 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10486
+Encoding: 5695 66694 5695
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+335 400 m 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 335 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10487
+Encoding: 5696 66695 5696
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 722 1400 l 1
+ 1222 1400 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1370 800 l 1
+ 500 0 l 1
+ 300 0 l 1
+ 309 100 l 1
+ 1179 900 l 1
+ 1205 1200 l 1
+ 605 1200 l 1
+ 422 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10488
+Encoding: 5697 66696 5697
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 170 800 l 1
+ 496 1100 l 1
+ 514 1300 l 1
+ 422 1400 l 1
+ 222 1400 l 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 722 1400 l 1
+ 687 1000 l 1
+ 1087 1000 l 1
+ 1361 700 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+335 400 m 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1152 600 l 1
+ 970 800 l 1
+ 470 800 l 1
+ 361 700 l 1
+ 335 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10489
+Encoding: 5698 66697 5698
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+179 900 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1370 800 l 1
+ 1044 500 l 1
+ 1026 300 l 1
+ 1117 200 l 1
+ 1317 200 l 1
+ 1300 0 l 1
+ 1000 0 l 1
+ 817 200 l 1
+ 852 600 l 1
+ 452 600 l 1
+ 179 900 l 1
+387 1000 m 1
+ 570 800 l 1
+ 1070 800 l 1
+ 1179 900 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 387 1000 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1048A
+Encoding: 5699 66698 5699
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 640 1600 l 1
+ 535 400 l 1
+ 717 200 l 1
+ 1117 200 l 1
+ 1335 400 l 1
+ 1361 700 l 1
+ 1179 900 l 1
+ 1187 1000 l 1
+ 1387 1000 l 1
+ 1570 800 l 1
+ 1526 300 l 1
+ 1200 0 l 1
+ 600 0 l 1
+ 326 300 l 1
+ 422 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1048B
+Encoding: 5700 66699 5700
+Width: 1600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+187 1000 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 1179 900 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1352 600 l 1
+ 1552 600 l 1
+ 1535 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 309 100 l 1
+ 326 300 l 1
+ 652 600 l 1
+ 1152 600 l 1
+ 1161 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+517 200 m 1
+ 917 200 l 1
+ 1135 400 l 1
+ 735 400 l 1
+ 517 200 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1048C
+Encoding: 5701 66700 5701
+Width: 1800
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 148 550 l 1
+ 420 800 l 1
+ 192 1050 l 1
+ 222 1400 l 1
+ 440 1600 l 1
+ 840 1600 l 1
+ 1022 1400 l 1
+ 992 1050 l 1
+ 720 800 l 1
+ 948 550 l 1
+ 935 400 l 1
+ 1117 200 l 1
+ 1317 200 l 1
+ 1535 400 l 1
+ 1735 400 l 1
+ 1726 300 l 1
+ 1400 0 l 1
+ 1000 0 l 1
+ 726 300 l 1
+ 739 450 l 1
+ 557 650 l 1
+ 339 450 l 1
+ 300 0 l 1
+ 100 0 l 1
+401 1150 m 1
+ 583 950 l 1
+ 801 1150 l 1
+ 814 1300 l 1
+ 722 1400 l 1
+ 522 1400 l 1
+ 414 1300 l 1
+ 401 1150 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1048D
+Encoding: 5702 66701 5702
+Width: 2200
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+187 1000 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 1179 900 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1335 400 l 1
+ 1517 200 l 1
+ 1717 200 l 1
+ 1935 400 l 1
+ 2135 400 l 1
+ 2126 300 l 1
+ 1800 0 l 1
+ 1400 0 l 1
+ 1126 300 l 1
+ 1161 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1048E
+Encoding: 5703 66702 5703
+Width: 2400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 109 100 l 1
+ 326 300 l 1
+ 414 1300 l 1
+ 231 1500 l 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 622 1400 l 1
+ 548 550 l 1
+ 1418 1350 l 1
+ 1422 1400 l 1
+ 1640 1600 l 1
+ 1840 1600 l 1
+ 1831 1500 l 1
+ 1614 1300 l 1
+ 1535 400 l 1
+ 1717 200 l 1
+ 1917 200 l 1
+ 2135 400 l 1
+ 2335 400 l 1
+ 2326 300 l 1
+ 2000 0 l 1
+ 1600 0 l 1
+ 1326 300 l 1
+ 1392 1050 l 1
+ 522 250 l 1
+ 517 200 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1048F
+Encoding: 5704 66703 5704
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 135 400 l 1
+ 461 700 l 1
+ 1161 700 l 1
+ 1179 900 l 1
+ 679 900 l 1
+ 405 1200 l 1
+ 440 1600 l 1
+ 640 1600 l 1
+ 614 1300 l 1
+ 796 1100 l 1
+ 1196 1100 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1300 0 l 1
+ 1100 0 l 1
+ 1144 500 l 1
+ 544 500 l 1
+ 326 300 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10490
+Encoding: 5705 66704 5705
+Width: 2200
+VWidth: 2500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1335 400 l 1
+ 1517 200 l 1
+ 1717 200 l 1
+ 1935 400 l 1
+ 2135 400 l 1
+ 2126 300 l 1
+ 1800 0 l 1
+ 1400 0 l 1
+ 1126 300 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10491
+Encoding: 5706 66705 5706
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 135 400 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1170 800 l 1
+ 987 1000 l 1
+ 587 1000 l 1
+ 370 800 l 1
+ 170 800 l 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 396 1100 l 1
+ 505 1200 l 1
+ 1105 1200 l 1
+ 1379 900 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10492
+Encoding: 5707 66706 5707
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 152 600 l 1
+ 479 900 l 1
+ 979 900 l 1
+ 1196 1100 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 205 1200 l 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1387 1000 l 1
+ 1061 700 l 1
+ 561 700 l 1
+ 344 500 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10493
+Encoding: 5708 66707 5708
+Width: 3000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+205 1200 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 414 1300 l 1
+ 596 1100 l 1
+ 996 1100 l 1
+ 1040 1600 l 1
+ 1240 1600 l 1
+ 1179 900 l 1
+ 1879 900 l 1
+ 2152 600 l 1
+ 2135 400 l 1
+ 2317 200 l 1
+ 2517 200 l 1
+ 2735 400 l 1
+ 2935 400 l 1
+ 2926 300 l 1
+ 2600 0 l 1
+ 2200 0 l 1
+ 1926 300 l 1
+ 1944 500 l 1
+ 1761 700 l 1
+ 1161 700 l 1
+ 1100 0 l 1
+ 900 0 l 1
+ 979 900 l 1
+ 479 900 l 1
+ 205 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10494
+Encoding: 5709 66708 5709
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 152 600 l 1
+ 370 800 l 1
+ 440 1600 l 1
+ 640 1600 l 1
+ 579 900 l 1
+ 979 900 l 1
+ 1196 1100 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1387 1000 l 1
+ 1061 700 l 1
+ 561 700 l 1
+ 344 500 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10495
+Encoding: 5710 66709 5710
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+117 200 m 1
+ 148 550 l 1
+ 420 800 l 1
+ 192 1050 l 1
+ 222 1400 l 1
+ 440 1600 l 1
+ 840 1600 l 1
+ 1022 1400 l 1
+ 992 1050 l 1
+ 720 800 l 1
+ 902 600 l 1
+ 894 500 l 1
+ 694 500 l 1
+ 557 650 l 1
+ 339 450 l 1
+ 326 300 l 1
+ 417 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 300 0 l 1
+ 117 200 l 1
+401 1150 m 1
+ 583 950 l 1
+ 801 1150 l 1
+ 814 1300 l 1
+ 722 1400 l 1
+ 522 1400 l 1
+ 414 1300 l 1
+ 401 1150 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10496
+Encoding: 5711 66710 5711
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 135 400 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1144 500 l 1
+ 961 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1405 1200 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 1079 900 l 1
+ 1352 600 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10497
+Encoding: 5712 66711 5712
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10498
+Encoding: 5713 66712 5713
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+187 1000 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1344 500 l 1
+ 800 0 l 1
+ 600 0 l 1
+ 609 100 l 1
+ 1152 600 l 1
+ 1161 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+396 1100 m 1
+ 579 900 l 1
+ 1179 900 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 396 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: u10499
+Encoding: 5714 66713 5714
+Width: 2400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+231 1500 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 622 1400 l 1
+ 579 900 l 1
+ 1279 900 l 1
+ 1552 600 l 1
+ 1535 400 l 1
+ 1717 200 l 1
+ 1917 200 l 1
+ 2135 400 l 1
+ 2335 400 l 1
+ 2326 300 l 1
+ 2000 0 l 1
+ 1600 0 l 1
+ 1326 300 l 1
+ 1344 500 l 1
+ 1161 700 l 1
+ 561 700 l 1
+ 500 0 l 1
+ 300 0 l 1
+ 414 1300 l 1
+ 231 1500 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1049A
+Encoding: 5715 66714 5715
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 152 600 l 1
+ 479 900 l 1
+ 1179 900 l 1
+ 1214 1300 l 1
+ 1031 1500 l 1
+ 1040 1600 l 1
+ 1240 1600 l 1
+ 1422 1400 l 1
+ 1300 0 l 1
+ 1100 0 l 1
+ 1161 700 l 1
+ 561 700 l 1
+ 344 500 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1049B
+Encoding: 5716 66715 5716
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+161 700 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1405 1200 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 370 800 l 1
+ 552 600 l 1
+ 952 600 l 1
+ 1170 800 l 1
+ 1370 800 l 1
+ 1300 0 l 1
+ 1100 0 l 1
+ 1144 500 l 1
+ 1035 400 l 1
+ 435 400 l 1
+ 161 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1049C
+Encoding: 5717 66716 5717
+Width: 2200
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1335 400 l 1
+ 1517 200 l 1
+ 1717 200 l 1
+ 1935 400 l 1
+ 2135 400 l 1
+ 2126 300 l 1
+ 1800 0 l 1
+ 1400 0 l 1
+ 1217 200 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1049D
+Encoding: 5718 66717 5718
+Width: 3400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+231 1500 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 622 1400 l 1
+ 570 800 l 1
+ 679 900 l 1
+ 1279 900 l 1
+ 1461 700 l 1
+ 1679 900 l 1
+ 2279 900 l 1
+ 2552 600 l 1
+ 2535 400 l 1
+ 2717 200 l 1
+ 2917 200 l 1
+ 3135 400 l 1
+ 3335 400 l 1
+ 3326 300 l 1
+ 3000 0 l 1
+ 2600 0 l 1
+ 2326 300 l 1
+ 2344 500 l 1
+ 2161 700 l 1
+ 1761 700 l 1
+ 1544 500 l 1
+ 1500 0 l 1
+ 1300 0 l 1
+ 1344 500 l 1
+ 1161 700 l 1
+ 761 700 l 1
+ 544 500 l 1
+ 500 0 l 1
+ 300 0 l 1
+ 414 1300 l 1
+ 231 1500 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A0
+Encoding: 5719 66720 5719
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+335 400 m 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 335 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A1
+Encoding: 5720 66721 5720
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1144 500 l 1
+ 961 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1340 1600 l 1
+ 1322 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 1079 900 l 1
+ 1352 600 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A2
+Encoding: 5721 66722 5721
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 152 600 l 1
+ 370 800 l 1
+ 187 1000 l 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1405 1200 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 979 900 l 1
+ 961 700 l 1
+ 561 700 l 1
+ 344 500 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A3
+Encoding: 5722 66723 5722
+Width: 2400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 1140 1600 l 1
+ 1122 1400 l 1
+ 622 1400 l 1
+ 579 900 l 1
+ 1279 900 l 1
+ 1552 600 l 1
+ 1535 400 l 1
+ 1717 200 l 1
+ 1917 200 l 1
+ 2135 400 l 1
+ 2335 400 l 1
+ 2326 300 l 1
+ 2000 0 l 1
+ 1600 0 l 1
+ 1326 300 l 1
+ 1344 500 l 1
+ 1161 700 l 1
+ 561 700 l 1
+ 500 0 l 1
+ 300 0 l 1
+ 422 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A4
+Encoding: 5723 66724 5723
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 170 800 l 1
+ 659 1250 l 1
+ 431 1500 l 1
+ 440 1600 l 1
+ 640 1600 l 1
+ 822 1400 l 1
+ 1040 1600 l 1
+ 1240 1600 l 1
+ 1231 1500 l 1
+ 959 1250 l 1
+ 1370 800 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+335 400 m 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1161 700 l 1
+ 796 1100 l 1
+ 361 700 l 1
+ 335 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A5
+Encoding: 5724 66725 5724
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+117 200 m 1
+ 148 550 l 1
+ 420 800 l 1
+ 192 1050 l 1
+ 222 1400 l 1
+ 440 1600 l 1
+ 840 1600 l 1
+ 1022 1400 l 1
+ 992 1050 l 1
+ 339 450 l 1
+ 326 300 l 1
+ 417 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 300 0 l 1
+ 117 200 l 1
+401 1150 m 1
+ 583 950 l 1
+ 801 1150 l 1
+ 814 1300 l 1
+ 722 1400 l 1
+ 522 1400 l 1
+ 414 1300 l 1
+ 401 1150 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A6
+Encoding: 5725 66726 5725
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+187 1000 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 396 1100 l 1
+ 579 900 l 1
+ 1179 900 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 300 0 l 1
+ 317 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1161 700 l 1
+ 461 700 l 1
+ 187 1000 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A7
+Encoding: 5726 66727 5726
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 135 400 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 205 1200 l 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A8
+Encoding: 5727 66728 5727
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1140 1600 l 1
+ 1414 1300 l 1
+ 1405 1200 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 622 1400 l 1
+ 405 1200 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1335 400 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u104A9
+Encoding: 5728 66729 5728
+Width: 1400
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 335 400 l 1
+ 517 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1240 1600 l 1
+ 1440 1600 l 1
+ 1326 300 l 1
+ 1000 0 l 1
+ 400 0 l 1
+ 126 300 l 1
 EndSplineSet
 EndChar
 EndChars
