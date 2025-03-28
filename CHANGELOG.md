@@ -21,7 +21,7 @@ Changes
 
 Version 1.023 - Released 03/18/2025
 
-Additions
+Changes
 - Fixed Hebrew letter widths in Bold and Bold Italic.
 
 -------------------------------------------------------------------------------
