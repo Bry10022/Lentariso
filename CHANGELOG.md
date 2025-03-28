@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.025 - Released 03/28/2025
+
+Changes
+- Fixed U+10512 as it looked like U+10517.
+
+-------------------------------------------------------------------------------
+
 Version 1.024 - Released 03/19/2025
 
 Additions
