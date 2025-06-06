@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.025
+Version: 1.026
 ItalicAngle: -5
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1743193521
+ModificationTime: 1749221883
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -180,7 +180,7 @@ Grid
   Named: "Ascent"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 524288 -740994 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 5729 5729
+BeginChars: 5731 5731
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -180005,6 +180005,102 @@ SplineSet
  1100 0 l 1
  400 0 l 1
  126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20C1
+Encoding: 5729 8385 5729
+Width: 2200
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1183 -200 m 1
+ 2083 -200 l 1
+ 2065 -400 l 1
+ 1165 -400 l 1
+ 1183 -200 l 1
+1517 200 m 1
+ 2117 200 l 1
+ 2100 0 l 1
+ 1200 0 l 1
+ 1252 600 l 1
+ 1052 600 l 1
+ 983 -200 l 1
+ 765 -400 l 1
+ 65 -400 l 1
+ 83 -200 l 1
+ 583 -200 l 1
+ 691 -100 l 1
+ 752 600 l 1
+ 152 600 l 1
+ 170 800 l 1
+ 770 800 l 1
+ 840 1600 l 1
+ 1140 1600 l 1
+ 1070 800 l 1
+ 1270 800 l 1
+ 1340 1600 l 1
+ 1640 1600 l 1
+ 1570 800 l 1
+ 2170 800 l 1
+ 2152 600 l 1
+ 1552 600 l 1
+ 1517 200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFDFC
+Encoding: 5730 65020 5730
+Width: 2200
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+83 -200 m 1
+ 135 400 l 1
+ 435 400 l 1
+ 391 -100 l 1
+ 483 -200 l 1
+ 583 -200 l 1
+ 691 -100 l 1
+ 787 1000 l 1
+ 387 1000 l 1
+ 405 1200 l 1
+ 805 1200 l 1
+ 840 1600 l 1
+ 1140 1600 l 1
+ 1105 1200 l 1
+ 1305 1200 l 1
+ 1340 1600 l 1
+ 1640 1600 l 1
+ 1605 1200 l 1
+ 2205 1200 l 1
+ 2100 0 l 1
+ 1400 0 l 1
+ 1217 200 l 1
+ 1287 1000 l 1
+ 1087 1000 l 1
+ 983 -200 l 1
+ 765 -400 l 1
+ 265 -400 l 1
+ 83 -200 l 1
+1183 -200 m 1
+ 1433 -200 l 1
+ 1415 -400 l 1
+ 1165 -400 l 1
+ 1183 -200 l 1
+1526 300 m 1
+ 1617 200 l 1
+ 1817 200 l 1
+ 1887 1000 l 1
+ 1587 1000 l 1
+ 1526 300 l 1
+1633 -200 m 1
+ 1883 -200 l 1
+ 1865 -400 l 1
+ 1615 -400 l 1
+ 1633 -200 l 1
 EndSplineSet
 EndChar
 EndChars
