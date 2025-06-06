@@ -180011,7 +180011,7 @@ EndChar
 StartChar: uni20C1
 Encoding: 5729 8385 5729
 Width: 2200
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -180053,7 +180053,7 @@ EndChar
 StartChar: uniFDFC
 Encoding: 5730 65020 5730
 Width: 2200
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
