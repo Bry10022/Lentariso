@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.027 - Released 06/12/2025
+
+Changes
+- Fixed vertical positioning of U+2C79 as it was going below the baseline when it shouldn't be.
+
+-------------------------------------------------------------------------------
+
 Version 1.026 - Released 06/06/2025
 
 Additions
