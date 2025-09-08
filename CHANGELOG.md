@@ -2,6 +2,16 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.028 - Released 09/08/2025
+
+Additions
+- Added the Sunuwar script.
+
+Changes
+- Fixed missing descenders in U+0504 and U+0505.
+
+-------------------------------------------------------------------------------
+
 Version 1.027 - Released 06/12/2025
 
 Changes
