@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.029 - Released 09/11/2025
+
+Additions
+- Added the Imperial Aramaic, Phoenician, and Sidetic scripts.
+
+-------------------------------------------------------------------------------
+
 Version 1.028 - Released 09/08/2025
 
 Additions
