@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.029
+Version: 1.030
 ItalicAngle: -5
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1757601535
+ModificationTime: 1762465869
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -162,7 +162,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 5680 16 12
+WinInfo: 5696 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -180,7 +180,7 @@ Grid
   Named: "Ascent"
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 524288 -740994 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 5861 5861
+BeginChars: 5887 5887
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -183493,6 +183493,547 @@ SplineSet
  970 800 l 1
  770 800 l 1
  761 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E0
+Encoding: 5861 67808 5861
+Width: 1700
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 317 200 l 1
+ 440 1600 l 1
+ 740 1600 l 1
+ 617 200 l 1
+ 1317 200 l 1
+ 1440 1600 l 1
+ 1740 1600 l 1
+ 1600 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E1
+Encoding: 5862 67809 5862
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 817 200 l 1
+ 1144 500 l 1
+ 1196 1100 l 1
+ 831 1500 l 1
+ 840 1600 l 1
+ 1140 1600 l 1
+ 1505 1200 l 1
+ 1435 400 l 1
+ 1000 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E2
+Encoding: 5863 67810 5863
+Width: 1900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 1417 200 l 1
+ 231 1500 l 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 1817 200 l 1
+ 1800 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E3
+Encoding: 5864 67811 5864
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 1340 1600 l 1
+ 1200 0 l 1
+ 900 0 l 1
+ 1022 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E4
+Encoding: 5865 67812 5865
+Width: 2300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 109 100 l 1
+ 1033 950 l 1
+ 531 1500 l 1
+ 540 1600 l 1
+ 840 1600 l 1
+ 1935 400 l 1
+ 2040 1600 l 1
+ 2340 1600 l 1
+ 2200 0 l 1
+ 1900 0 l 1
+ 1216 750 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E5
+Encoding: 5866 67813 5866
+Width: 900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 109 100 l 1
+ 544 500 l 1
+ 596 1100 l 1
+ 231 1500 l 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 905 1200 l 1
+ 835 400 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E6
+Encoding: 5867 67814 5867
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E7
+Encoding: 5868 67815 5868
+Width: 2000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 1635 400 l 1
+ 1740 1600 l 1
+ 2040 1600 l 1
+ 1900 0 l 1
+ 1600 0 l 1
+ 505 1200 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E8
+Encoding: 5869 67816 5869
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 231 1500 l 1
+ 775 2000 l 1
+ 1075 2000 l 1
+ 1066 1900 l 1
+ 522 1400 l 1
+ 435 400 l 1
+ 617 200 l 1
+ 917 200 l 1
+ 1135 400 l 1
+ 1170 800 l 1
+ 896 1100 l 1
+ 905 1200 l 1
+ 1205 1200 l 1
+ 1479 900 l 1
+ 1426 300 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108E9
+Encoding: 5870 67817 5870
+Width: 1300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+179 900 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1340 1600 l 1
+ 1322 1400 l 1
+ 722 1400 l 1
+ 505 1200 l 1
+ 487 1000 l 1
+ 852 600 l 1
+ 817 200 l 1
+ 600 0 l 1
+ 300 0 l 1
+ 309 100 l 1
+ 526 300 l 1
+ 544 500 l 1
+ 179 900 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108EA
+Encoding: 5871 67818 5871
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 1540 1600 l 1
+ 1365 -400 l 1
+ 1065 -400 l 1
+ 1222 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108EB
+Encoding: 5872 67819 5872
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+266 1900 m 1
+ 275 2000 l 1
+ 575 2000 l 1
+ 1487 1000 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1179 900 l 1
+ 266 1900 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108EC
+Encoding: 5873 67820 5873
+Width: 1700
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 475 2000 l 1
+ 775 2000 l 1
+ 740 1600 l 1
+ 1740 1600 l 1
+ 1600 0 l 1
+ 1300 0 l 1
+ 1422 1400 l 1
+ 722 1400 l 1
+ 600 0 l 1
+ 300 0 l 1
+ 422 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108ED
+Encoding: 5874 67821 5874
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 -400 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 365 -400 l 1
+ 65 -400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108EE
+Encoding: 5875 67822 5875
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 275 2000 l 1
+ 575 2000 l 1
+ 540 1600 l 1
+ 1540 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1222 1400 l 1
+ 522 1400 l 1
+ 400 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108EF
+Encoding: 5876 67823 5876
+Width: 1100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 770 800 l 1
+ 222 1400 l 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 1079 900 l 1
+ 1061 700 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108F0
+Encoding: 5877 67824 5877
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+126 300 m 1
+ 214 1300 l 1
+ 540 1600 l 1
+ 1240 1600 l 1
+ 1514 1300 l 1
+ 1365 -400 l 1
+ 1065 -400 l 1
+ 1100 0 l 1
+ 400 0 l 1
+ 126 300 l 1
+435 400 m 1
+ 617 200 l 1
+ 1117 200 l 1
+ 1205 1200 l 1
+ 1022 1400 l 1
+ 722 1400 l 1
+ 505 1200 l 1
+ 435 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108F1
+Encoding: 5878 67825 5878
+Width: 2000
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 -400 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 1635 400 l 1
+ 1740 1600 l 1
+ 2040 1600 l 1
+ 1900 0 l 1
+ 1600 0 l 1
+ 505 1200 l 1
+ 365 -400 l 1
+ 65 -400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108F2
+Encoding: 5879 67826 5879
+Width: 1700
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 1740 1600 l 1
+ 1600 0 l 1
+ 1300 0 l 1
+ 1422 1400 l 1
+ 722 1400 l 1
+ 600 0 l 1
+ 300 0 l 1
+ 422 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108F4
+Encoding: 5880 67828 5880
+Width: 1900
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+417 200 m 1
+ 1417 200 l 1
+ 505 1200 l 1
+ 417 200 l 1
+100 0 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 1817 200 l 1
+ 1800 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108F5
+Encoding: 5881 67829 5881
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 -400 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 505 1200 l 1
+ 1505 1200 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1187 1000 l 1
+ 487 1000 l 1
+ 365 -400 l 1
+ 65 -400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108FB
+Encoding: 5882 67835 5882
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+65 -400 m 1
+ 240 1600 l 1
+ 540 1600 l 1
+ 365 -400 l 1
+ 65 -400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108FC
+Encoding: 5883 67836 5883
+Width: 1100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 770 800 l 1
+ 222 1400 l 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 1079 900 l 1
+ 1061 700 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108FD
+Encoding: 5884 67837 5884
+Width: 1500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+222 1400 m 1
+ 240 1600 l 1
+ 1540 1600 l 1
+ 1400 0 l 1
+ 1100 0 l 1
+ 1222 1400 l 1
+ 222 1400 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108FE
+Encoding: 5885 67838 5885
+Width: 750
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+100 0 m 1
+ 117 200 l 1
+ 389 450 l 1
+ 161 700 l 1
+ 179 900 l 1
+ 451 1150 l 1
+ 222 1400 l 1
+ 240 1600 l 1
+ 440 1600 l 1
+ 759 1250 l 1
+ 742 1050 l 1
+ 470 800 l 1
+ 698 550 l 1
+ 681 350 l 1
+ 300 0 l 1
+ 100 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u108FF
+Encoding: 5886 67839 5886
+Width: 3300
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+517 200 m 1
+ 2817 200 l 1
+ 1768 1350 l 1
+ 517 200 l 1
+100 0 m 1
+ 117 200 l 1
+ 1640 1600 l 1
+ 1940 1600 l 1
+ 3217 200 l 1
+ 3200 0 l 1
+ 100 0 l 1
 EndSplineSet
 EndChar
 EndChars
