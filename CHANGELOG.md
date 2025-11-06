@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.030 - Released 11/06/2025
+
+Additions
+- Added the Hatran script.
+
+-------------------------------------------------------------------------------
+
 Version 1.029 - Released 09/11/2025
 
 Additions
