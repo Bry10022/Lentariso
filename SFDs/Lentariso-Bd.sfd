@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.030
+Version: 1.031
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1762468046
+ModificationTime: 1767649428
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -74316,8 +74316,8 @@ SplineSet
  300 1600 l 1
  600 1600 l 1
  600 1500 l 1
- 800 1500 l 1
- 800 1300 l 1
+ 900 1500 l 1
+ 900 1300 l 1
  600 1300 l 1
  600 900 l 1
  900 1200 l 1
@@ -74343,7 +74343,6 @@ SplineSet
  300 1300 l 1
  100 1300 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniA746
