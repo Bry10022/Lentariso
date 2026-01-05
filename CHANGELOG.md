@@ -5,7 +5,7 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 Version 1.031 - Released 01/05/2026
 
 Changes
-- Fixed stroke on U+A745 in Bold and Bold Italic styles to be more consistant.
+- Fixed stroke on U+A745 in Bold and Bold Italic styles to be more consistent.
 
 -------------------------------------------------------------------------------
 
