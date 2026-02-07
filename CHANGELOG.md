@@ -2,6 +2,16 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.032 - Released 02/07/2026
+
+Additions
+- Added Unicode 18 Latin. Armenian, and Currency Symbols.
+
+Changes
+- Fixed positioning of U+A71F for Unicode 18 errata.
+
+-------------------------------------------------------------------------------
+
 Version 1.031 - Released 01/05/2026
 
 Changes
