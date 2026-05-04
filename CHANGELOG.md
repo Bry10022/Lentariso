@@ -2,6 +2,13 @@ Here is the changelog of the Lentariso font. The latest version is at the top.
 
 -------------------------------------------------------------------------------
 
+Version 1.033 - Released 05/04/2026
+
+Changes
+- Fixed width of U+1DF5B in Bold and Bold Italic.
+
+-------------------------------------------------------------------------------
+
 Version 1.032 - Released 02/07/2026
 
 Additions
