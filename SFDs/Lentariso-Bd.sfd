@@ -5,7 +5,7 @@ FamilyName: Lentariso
 Weight: Bold
 Copyright: (C) 2023 Bryndan Meyerholt
 UComments: "2023-12-30: Created with FontForge (http://fontforge.org)"
-Version: 1.032
+Version: 1.033
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1703937616
-ModificationTime: 1770499794
+ModificationTime: 1777934954
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -186401,7 +186401,7 @@ EndChar
 
 StartChar: u1DF5B
 Encoding: 5963 122715 5963
-Width: 2000
+Width: 2100
 Flags: HW
 LayerCount: 2
 Fore
